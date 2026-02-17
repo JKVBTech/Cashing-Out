@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Waveform 13.5.21" projectID="65d3a/1204a6" creationTime="1770733421290"
+      lastSignificantChange="19c6bc06ca0" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="45.4" scrubInterval="0.9088173137766533"
+             start="0.0" loopPoint2="28.0" loopPoint1="28.0"/>
+  <PITCHSEQUENCE>
+    <PITCH startBeat="0.0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0.0" bpm="120.0" curve="1.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0.0"/>
+  </TEMPOSEQUENCE>
+  <VIDEO/>
+  <CLICKTRACK level="0.6000000238418579"/>
+  <MASTERVOLUME>
+    <PLUGIN type="volume" volume="0.3962487876415253" id="1001" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+  </MASTERVOLUME>
+  <RACKS/>
+  <MASTERPLUGINS/>
+  <INPUTDEVICES>
+    <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
+      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
+    </INPUTDEVICE>
+  </INPUTDEVICES>
+  <TRACKCOMPS/>
+  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
+             browserSelection="result/plugins" viewleft="40.07456803993433"
+             viewright="85.51543372876699" sidePanelsShown="0" midiEditorShown="1"
+             midiTypingWindowBounds="440 301 331 97" tracktop="-5.382000000000062"
+             midiEditorHeight="1.311864495277405" pluginAreaWidth="0.8737800717353821"/>
+  <EDITMIXGROUPS/>
+  <SCENES/>
+  <AUDIOEDITING/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3719131786490111" visibleProportion="0.2122296392917633"
+                 leftTime="43.87289719626159" rightTime="55.87289719626156"/>
+  <AUTOMAPXML/>
+  <ARRANGERTRACK name="Arranger" id="1027"/>
+  <CHORDTRACK name="Chord" id="1029"/>
+  <MARKERTRACK id="1002" name="Marker"/>
+  <TEMPOTRACK name="Global" id="1028">
+    <MODIFIERS/>
+  </TEMPOTRACK>
+  <MASTERTRACK name="Master" id="1030" height="39.0">
+    <MODIFIERS/>
+  </MASTERTRACK>
+  <TRACK id="1003" colour="ffff00aa" height="101.0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <MIDICLIP name="New MIDI Clip" start="0.0" length="8.0" offset="0.0" id="1033"
+              sync="0" currentTake="0" speed="1.0" colour="ffff00aa" volDb="-1.996408462524414"
+              mute="0">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="79" b="0.0" l="1.0" v="96" c="0"/>
+        <NOTE p="77" b="1.0" l="1.0" v="96" c="0"/>
+        <NOTE p="84" b="2.0" l="4.0" v="96" c="0"/>
+        <NOTE p="74" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="77" b="9.0" l="1.0" v="100" c="0"/>
+        <NOTE p="69" b="10.0" l="4.0" v="100" c="0"/>
+        <NOTE p="91" b="14.0" l="1.999999999999998" v="100" c="0"/>
+        <NOTE p="79" b="6.0" l="2.0" v="96" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="10.0" length="12.0" offset="0.0"
+              id="1072" sync="0" currentTake="0" speed="1.0" colour="ffff00aa">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="67" b="0.0" l="1.5" v="100" c="0"/>
+        <NOTE p="72" b="1.5" l="2.0" v="100" c="0"/>
+        <NOTE p="68" b="4.0" l="1.5" v="100" c="0"/>
+        <NOTE p="65" b="5.5" l="2.0" v="100" c="0"/>
+        <NOTE p="74" b="8.0" l="1.5" v="100" c="0"/>
+        <NOTE p="69" b="12.0" l="1.5" v="100" c="0"/>
+        <NOTE p="71" b="13.5" l="1.5" v="100" c="0"/>
+        <NOTE p="72" b="15.0" l="1.0" v="100" c="0"/>
+        <NOTE p="73" b="16.0" l="4.0" v="100" c="0"/>
+        <NOTE p="75" b="20.0" l="4.0" v="100" c="0"/>
+        <NOTE p="72" b="9.5" l="2.0" v="100" c="0"/>
+        <NOTE p="64" b="0.0" l="1.5" v="100" c="0"/>
+        <NOTE p="69" b="1.5" l="2.0" v="99" c="0"/>
+        <NOTE p="71" b="4.0" l="1.5" v="99" c="0"/>
+        <NOTE p="62" b="5.5" l="2.0" v="99" c="0"/>
+        <NOTE p="71" b="8.0" l="1.5" v="99" c="0"/>
+        <NOTE p="69" b="9.5" l="2.0" v="99" c="0"/>
+        <NOTE p="72" b="12.0" l="1.5" v="99" c="0"/>
+        <NOTE p="74" b="13.5" l="1.5" v="99" c="0"/>
+        <NOTE p="75" b="15.0" l="1.0" v="99" c="0"/>
+        <NOTE p="76" b="16.0" l="4.0" v="99" c="0"/>
+        <NOTE p="78" b="20.0" l="4.0" v="99" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="24.0" length="20.0" offset="0.0"
+              id="1085" sync="0" currentTake="0" speed="1.0" colour="ffff00aa"
+              volDb="0.0">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="71" b="0.0" l="1.0" v="100" c="0"/>
+        <NOTE p="69" b="1.0" l="1.0" v="100" c="0"/>
+        <NOTE p="72" b="2.0" l="6.0" v="100" c="0"/>
+        <NOTE p="69" b="6.0" l="2.0" v="100" c="0"/>
+        <NOTE p="67" b="8.0" l="1.0" v="100" c="0"/>
+        <NOTE p="65" b="9.0" l="1.0" v="99" c="0"/>
+        <NOTE p="62" b="10.0" l="1.5" v="99" c="0"/>
+        <NOTE p="64" b="11.5" l="1.5" v="99" c="0"/>
+        <NOTE p="65" b="13.0" l="1.0" v="99" c="0"/>
+        <NOTE p="69" b="14.0" l="5.5" v="99" c="0"/>
+        <NOTE p="72" b="17.0" l="2.5" v="99" c="0"/>
+        <NOTE p="69" b="20.0" l="1.0" v="99" c="0"/>
+        <NOTE p="67" b="21.0" l="1.0" v="99" c="0"/>
+        <NOTE p="72" b="22.0" l="2.0" v="99" c="0"/>
+        <NOTE p="74" b="24.0" l="1.0" v="99" c="0"/>
+        <NOTE p="72" b="25.0" l="1.0" v="99" c="0"/>
+        <NOTE p="76" b="27.0" l="2.5" v="99" c="0"/>
+        <NOTE p="72" b="30.0" l="1.0" v="99" c="0"/>
+        <NOTE p="69" b="31.0" l="1.0" v="99" c="0"/>
+        <NOTE p="67" b="32.0" l="1.5" v="99" c="0"/>
+        <NOTE p="69" b="34.0" l="1.0" v="99" c="0"/>
+        <NOTE p="71" b="35.0" l="1.0" v="99" c="0"/>
+        <NOTE p="67" b="36.0" l="4.0" v="99" c="0"/>
+        <NOTE p="74" b="38.0" l="2.0" v="99" c="0"/>
+        <NOTE p="69" b="26.0" l="1.0" v="99" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="4osc" windowLocked="1" id="1032" enabled="1" filterType="1"
+            presetDirty="0" ampAttack="0.001000000047497451" ampRelease="0.01629147119820118"
+            ampVelocity="0.0" filterAttack="0.0" filterDecay="0.2263980954885483"
+            filterSustain="0.0" filterRelease="0.2263980954885483" filterAmount="0.0"
+            waveShape1="3" presetName="4OSC: Tech 5th WMF" presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Tech 5th WMF.trkpreset"
+            ampDecay="3.7168288230896" ampSustain="89.39393615722656" filterFreq="135.0762329101562"
+            masterLevel="-14.27058410644531" windowX="1734" windowY="188"
+            filterResonance="0.0" reverbOn="1" reverbSize="0.8045624494552612"
+            reverbWidth="1.0" reverbDamping="0.3089218735694885" reverbMix="0.07846875488758087"
+            voices="32" filterSlope="24" tune1="-12.0" detune1="0.4031796753406525"
+            spread1="100.0" voices1="4" tune2="-5.0" fineTune2="4.96875"
+            detune2="0.3980546891689301" spread2="100.0" waveShape2="3" voices2="4"
+            modAttack1="0.0" modDecay1="0.07745298743247986" modSustain1="0.0"
+            modRelease1="0.06415199488401413">
+      <MODIFIERASSIGNMENTS/>
+      <MODMATRIX>
+        <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="-0.3588593900203705"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.3966562747955322"/>
+      </MODMATRIX>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1004" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1005" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1006" colour="ffff0000">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <STEPCLIP name="New Step Clip" start="8.0" length="2.0" offset="0.0" id="1064"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="101010000000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="101010000000000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="10.0" length="2.5" offset="0.0" id="1065"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000000001"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="12.5" length="1.5" offset="0.0" id="1066"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1000000000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1010001000100"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="14.0" length="2.0" offset="0.0" id="1067"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000000001"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="16.0" length="2.0" offset="0.0" id="1068"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1000001000001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1000001000001"/>
+          <CHANNEL/>
+          <CHANNEL pattern="1000001000001"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="18.0" length="2.0" offset="0.0" id="1069"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1" velocities="127"/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="20.0" length="2.5" offset="0.0" id="1070"
+              sequence="0,1" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100010"/>
+          <CHANNEL pattern="1000100"/>
+          <CHANNEL pattern="101010110001000"/>
+          <CHANNEL pattern="10001"/>
+          <CHANNEL pattern="101010101010101"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="101010100000000"/>
+        </PATTERN>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="22.5" length="1.5" offset="0.0" id="1084"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10100000"/>
+          <CHANNEL pattern="10100000000"/>
+          <CHANNEL pattern="10110110000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="24.0" length="4.0" offset="0.0" id="1088"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100010000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="101110101010001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100010001"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="28.0" length="2.0" offset="0.0" id="1089"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="10100"/>
+          <CHANNEL pattern="1000000"/>
+          <CHANNEL pattern="1110101"/>
+          <CHANNEL pattern="100000100000000"/>
+          <CHANNEL pattern="100000100000000"/>
+          <CHANNEL pattern="100000100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="30.0" length="2.0" offset="0.0" id="1090"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1101110100000000"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="1000100010000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="32.0" length="2.0" offset="0.0" id="1091"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000000000000"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1011101010001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="101000000000001"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="100000000000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="38.5" length="0.534081796311149"
+              offset="0.0" id="1092" sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="39.0" length="4.0" offset="0.0" id="1093"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100010000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="101110101010101"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100010001"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="43.0" length="2.0" offset="0.0" id="1094"
+              sequence="0" colour="ffff0000" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="100010001"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <PLUGIN type="vst" uniqueId="0" uid="0" filename="Micro Drum Sampler"
+            name="Micro Drum Sampler" manufacturer="Tracktion" windowLocked="1"
+            id="1058" enabled="1" windowX="1768" windowY="338" state="71810.PI0SGIUPMAP.B.mbkMWYzQTZxQWd.DP.B.mbkMWYz4TXsUF.ArPAMk1Xx8FH4.SN.DP.MkzPR8zTA0DTLUjT.Dv.1Ulbyk1atAP.EDf.....vwVX40zajUF.ALPAw.vX0Imbk4FcPE1YkAP.ED......AD+TOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvDC...UPDAP.D3VXsUF.AjPACIWXygFHw.fauQWY.D.AEPSN.j1Xu4F.ALPA1.vXuw1a0IG.ALPAx...PEDQ.Dv.tEVakAP.ITvPxE1bnAhL.31azUF.APPA0bC.oM1atAP.CT.L...TAQD.APfag0VY.DfAEHUZjUF.t8FckAP.DTPMw.PZi8la.Dv.EXC.i8FauUmb.Dv.EHC...UPDAP.C3VXsUF.ArPARkFYkAhPkwFa.31azUF.APPA0LC.oM1atAP.CT.L...TAQD.APfag0VY.DfBEfTZmgFHT8Va.31azUF.APPA0.C.oM1atAP.DTPLw.vXuw1a0IG.ALPAw...PEDQ.D.AtEVakAP.ITPSoQFHT8Va.31azUF.APPAzfC.oM1atAP.DTPLw.vXuw1a0IG.ALPAw...PEDQ.D.AtEVakAP.IT.SucGHT8Va.31azUF.APPAzTC.oM1atAP.DTPLw.vXuw1a0IG.ALPAw...PEDQ.Dv.tEVakAP.KTfQr81axABUu0F.t8FckAP.DT.My.PZi8la.Dv.E.C...UPDAP.C3VXsUF.AjPAS4VXxUFHw.fauQWY.D.AELCN.j1Xu4F.ALPA3...PEDQ.Dv.tEVakAP.ITvTtElbkAhL.31azUF.APPAz.C.oM1atAP.CT.L...TAQD.APfag0VY.DPCE7Dbk4FHHkVKHEFc.31azUF.APPAzXC.oM1atAP.CTPM.L1ar8VcxAP.CTfL...TAQD.ALfag0VY.DfCE.UYjEFaffTZsfTXzAfauQWY.D.AEPCM.j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.LTvToQVYfLEcoM1Z.31azUF.APPAybC.oM1atAP.DTPLv...PEDQ.D.AtEVakAP.FTvRoM1Z.31azUF.APPAyXC.oM1atAP.CTvM.L1ar8VcxAP.CTvL...TAQD.APfag0VY.DvCELDauMWYjABRo0BRgQG.t8FckAP.DT.Mx.PZi8la.Dv.EPC.i8FauUmb.Dv.EHC...UPDAP.D3VXsUF.AXPACwVXvAfauQWY.D.AELSN.j1Xu4F.ALPA4.vXuw1a0IG.ALPAw...PEDQ.Dv.tEVakAP.TTPPi8VcyQWZiAhPgM2bfPjb00F.t8FckAP.EDvH....oM1atAP.CT.L...TAQD.ALfag0VY.DvCEvza2AhQr81axABUu0F.t8FckAP.EDPJ....oM1atAP.CT.L...TAQD.ALfag0VY.DPCEvza20RSoQFHT8Va.31azUF.ATP.u....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.PTvPnklakMWYfLTdsIVXrAfauQWY.DPAAPC...PZi8la.Dv.E.C...UPDAP.C3VXsUF.AvPATEVah8VcxklakAfauQWY.DPAAXC...PZi8la.Dv.E.C...UPDAP.C3VXsUF.A7PASAGagMGZfLTdsIVXrAfauQWY.DPAAbC...PZi8la.Dv.E.C...UPDAP.C3VXsUF.AjPAC81chUFarAfauQWY.DPAAfC...PZi8la.Dv.E.C...UPDAP.C3VXsUF.ArPAVklXxE1brEFb.31azUF.ATP.5....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTfToQVYfLTdsIVXrAhL.31azUF.ATP.6....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.JT.RoAhPu41YuAfauQWY.DPAAvC...PZi8la.Dv.E.C...UPDAP.C3VXsUF.ArPAL81cfHzatc1a.31azUF.ATP.8....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTPS0QWYffTZfLzatcVX.31azUF.ATP.9....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTvSvUlaffTZfLzatcVX.31azUF.ATP.+....j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.KT.SucGHC8lamEF.t8FckAP.ED.P....oM1atAP.CT.L...TAQD.ALfag0VY.DfCEfTZmgFHTkVahEFakAfauQWY.DPAADD...PZi8la.Dv.E.C...UPDAP.C3VXsUF.AzPAL81cfPUZsIVXrUF.t8FckAP.EDfP....oM1atAP.CT.L...TAQD.ALfag0VY.D.CEfTZmgFHAc1am8F.t8FckAP.EDvP....oM1atAP.CT.L...TAQD.ALfag0VY.DvBEvza2ARPm81YuAfauQWY.DPAAPD...PZi8la.Dv.E.C...UPDAP.C3VXsUF.AfPACElXgMWX.31azUF.ATP.EA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.ITPSgIWXiE1b.31azUF.ATP.FA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTvTn8lbzAxUnk1bzwVY.31azUF.ATP.GA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.NT.Su41YfbEZoMGcrUF.t8FckAP.ED.R....oM1atAP.CT.L...TAQD.ALfag0VY.DPCELEZuIGcfbTcoI2a.31azUF.ATP.IA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.LT.Su41YfbTcoI2a.31azUF.ATP.JA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.HTvPrElckMG.t8FckAP.EDvR....oM1atAP.CT.L...TAQD.ALfag0VY.DvCEfTZfb0auQFHBw1aisF.t8FckAP.ED.S....oM1atAP.CT.L...TAQD.ALfag0VY.D.DEvza2AxUu8FYfHDauM1Z.31azUF.ATP.MA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.LTPS0QWYfLTcoMVX.31azUF.ATP.NA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.LTvSvUlafLTcoMVX.31azUF.ATP.OA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTPS0QWYfPkboElamwVY.31azUF.ATP.PA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.OTvSvUlafPkboElamwVY.31azUF.ATP.QA...j1Xu4F.ALPAv...PEDQ.Dv.tEVakAP.BT..t8FckAP.EDfT....oM1atAP.CT.L..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.STPNvjCHBE1byABQxUWafTCN2.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.AfQA4.SNfHTXyMGHDIWcsARM3biKlwVXiAvbg0FbrUVRtAP.CT.L.LWXsAGakwzauAWRtAP.CT.L.LWXsAGak8TczAP.GTPL4bCNv.vbg0FbrUFSu8FbOUGc.DvAEDSN2fCL.H2auQmSuQWY.D.AELiM.v1a2YUYr81XoQWd.Dv.E.C.nk1YnYUYr81XoQWd.DPAEDiL2..aucmSuQWY.D.AELiM.fVZmglSuQWY.D.AELiM.LWXsAGakQTXzEFRgMGZ.DfHEH1M2LVX3PVNlcSL4TFN2LCNxDVYhUSN0DVY0PFY1LlM.DPlS8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.iL..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvLC.1EFa0UF.ATPAw3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL0...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.iM.XWXrUWY.DPAE.iKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.yM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLx.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSN..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CE.WZzMFZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAyUlayAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEbVXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.bg4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NTPYtYWSuQVYPElbg0F.1EFa0UF.Aj.A............S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTPXzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPXzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAjU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELWcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAlkFazUlbM8FYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEXVZrQWYxUjagIFakAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.BEDGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvX0QGcuYlYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1awLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1aw.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1awLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8lLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8lLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ESPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYWLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYWLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYWLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYWLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcxDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ISPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ICQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ICQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1IiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YxkWSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ESSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ISSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfbkYWYxI1Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXeAmbkQTYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEHWY1Ulbh80booWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh8EYkMVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUlckImXeQVYlklaoQWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAxUlckImXeQVZlYVcyk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfbkYWYxI1Wr81cCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EZocFZCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EaucGQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EZocFZDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WvEla..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAjk1bz80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQWdvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjk1bz8EYxklckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceA2ayQ2Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2Wz8lakA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceUVavgVXyk1b..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVZyQ2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELFZuIWcy80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2Ws8FYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYvQGZ..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8kbgQWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CELFZuIWcy8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAi8Vav80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTvXu0FbeQGZxU1bn8FajA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXu0FbeIWXzk1a..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEL1asA2WgQGcgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEL1asA2WxUFakE1bkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXu0FbeslakUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAi8Vav80a0QGb0QGQhA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YkwVX480atA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NT.YkwVX48Eauc2X0QG.1EFa0UF.Aj.A....f..vxAD.S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YkwVX48EZocFZiUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEPVYrEVdeYVYkQlXgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPVYrEVdeQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVYrEVde0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.GTPYw80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfYowFckI2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGZgAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WlIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WmEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTfYowFckI2WwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvYgklae8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEbVXo41WlEFYkIG..L0SU4DQLETVEIE.A3PXiQWZ1UF.ALPAw.fag0VY.D.EEjCL4.xP40lXgwFHCIWXygFHx.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.AjQA4.SNfLTdsIVXrAxPxE1bnAhLtXFagMF.yEVavwVYI4F.ALPAv.vbg0FbrUFSu8FbI4F.ALPAv.vbg0FbrU1S0QG.AbPA1HSNwHC.yEVavwVYL81av8TczAP.GTfMxjSLx.fbu8FcN8FckAP.DT.M4..aucmUkw1aikFc4AP.CT.L.fVZmglUkw1aikFc4AP.ETPLxbC.r81cN8FckAP.DT.M4..ZocFZN8FckAP.DT.M4.vbg0FbrUFQgQWXHE1bnAP.hTvX0XiXkMiXzPVMhU1LiEFL4T1XzL1LhQ1MyXyLxXCMiAP.YN0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLx...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.yL.XWXrUWY.DPAEDiKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvTC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CL1.fcgwVckAP.ET.Lt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLy.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.boQ2XnAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELWYtMGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvYgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAvElaPElbg0F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAk4lcM8FYkAUXxEVa.XWXrUWY.DPBD............L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAgQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAgQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvb0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEXVZrQWYx0zajUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfYowFckIWQtElXrUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPbPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAiUGcz8lYlAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuEyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuEyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1axLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1ax.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1axLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYWLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcwDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcwPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcwPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcwHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ISPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYmLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYmLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYmLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYmLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjIWdMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgWLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgmLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAjUFagk2Wr81ciUGc.XWXrUWY.DPBD.....B..KGP.L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wnk1YnMVczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48kYkUFYhE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YkwVX48EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX48UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbPAkE2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WsYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WscTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WnYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WncTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80bnEFbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbeYlbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbecVXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAlkFazUlbeEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAmEVZt80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvYgklaeYVXjUlb..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.STPNvjCHCkWahEFafHUZjUFHw.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.AfQA4.SNfLTdsIVXrAhToQVYfDiKlwVXiAvbg0FbrUVRtAP.CT.L.LWXsAGakwzauAWRtAP.CT.L.LWXsAGak8TczAP.GTfMvjCLv.vbg0FbrUFSu8FbOUGc.DvAEXCL4.CL.H2auQmSuQWY.D.AETSL.v1a2YUYr81XoQWd.Dv.E.C.nk1YnYUYr81XoQWd.DPAEDiL2..aucmSuQWY.D.AETSL.fVZmglSuQWY.D.AETSL.LWXsAGakQTXzEFRgMGZ.DfHEjSM2jSMlQCLhEFNiACYkE1X2biMyTlMkciY4XFMkQ1X.DPlS8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.iL..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvLC.1EFa0UF.ATPAw3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL0...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.iM.XWXrUWY.DPAE.iKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.yM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLx.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSN..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CE.WZzMFZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAyUlayAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEbVXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.bg4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NTPYtYWSuQVYPElbg0F.1EFa0UF.Aj.A............S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTPXzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPXzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAjU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELWcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAlkFazUlbM8FYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEXVZrQWYxUjagIFakAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.BEDGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvX0QGcuYlYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1awLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1aw.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1awLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8lLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8lLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ESPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYWLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYWLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYWLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYWLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcxDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ISPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ICQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ICQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1IiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YxkWSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ESSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ISSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfbkYWYxI1Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXeAmbkQTYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEHWY1Ulbh80booWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh8EYkMVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUlckImXeQVYlklaoQWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAxUlckImXeQVZlYVcyk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfbkYWYxI1Wr81cCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EZocFZCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EaucGQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EZocFZDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WvEla..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAjk1bz80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQWdvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjk1bz8EYxklckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceA2ayQ2Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2Wz8lakA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceUVavgVXyk1b..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVZyQ2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELFZuIWcy80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2Ws8FYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYvQGZ..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8kbgQWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CELFZuIWcy8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAi8Vav80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTvXu0FbeQGZxU1bn8FajA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXu0FbeIWXzk1a..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEL1asA2WgQGcgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEL1asA2WxUFakE1bkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXu0FbeslakUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAi8Vav80a0QGb0QGQhA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YkwVX480atA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NT.YkwVX48Eauc2X0QG.1EFa0UF.Aj.A....f..vxAD.S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YkwVX48EZocFZiUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEPVYrEVdeYVYkQlXgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPVYrEVdeQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVYrEVde0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.GTPYw80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfYowFckI2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGZgAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WlIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WmEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTfYowFckI2WwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvYgklae8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEbVXo41WlEFYkIG..L0SU4DQLETVEIE.A3PXiQWZ1UF.ALPAw.fag0VY.DPDEjCL4.BRg4FYfLDagAGHw.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.AXQA4.SNffTXtQFHCwVXvARLtXFagMF.yEVavwVYI4F.ALPAv.vbg0FbrUFSu8FbI4F.ALPAv.vbg0FbrU1S0QG.AbPA0TSL1fC.yEVavwVYL81av8TczAP.GTPM0DiM3.fbu8FcN8FckAP.DTvL4..aucmUkw1aikFc4AP.CT.L.fVZmglUkw1aikFc4AP.ETPLxbC.r81cN8FckAP.DTvL4..ZocFZN8FckAP.DTvL4.vbg0FbrUFQgQWXHE1bnAP.hT.LkIVNxPCMlMFMjMlMy.CYgYVLlQCNgEVXvfCL0LVXiAP.YN0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLx...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.yL.XWXrUWY.DPAEDiKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvTC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CL1.fcgwVckAP.ET.Lt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLy.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.boQ2XnAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELWYtMGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvYgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAvElaPElbg0F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAk4lcM8FYkAUXxEVa.XWXrUWY.DPBD............L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAgQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAgQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvb0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEXVZrQWYx0zajUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfYowFckIWQtElXrUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPbPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAiUGcz8lYlAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuEyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuEyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1axLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1ax.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1axLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYWLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcwDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcwPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcwPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcwHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ISPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYmLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYmLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYmLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYmLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjIWdMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgWLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgmLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAjUFagk2Wr81ciUGc.XWXrUWY.DPBD.....B..KGP.L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wnk1YnMVczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48kYkUFYhE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YkwVX48EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX48UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbPAkE2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WsYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WscTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WnYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WncTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80bnEFbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbeYlbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbecVXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAlkFazUlbeEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAmEVZt80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvYgklaeYVXjUlb..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.UTPNvjCHHkFHHEFcfLDauMWYjARN.HWY1UlbyUF.ALPAv.vbg0FbrUFQgQWXNEVakAP.ZTPNvjCHHkFHHEFcfLDauMWYjARNtXFagMF.yEVavwVYI4F.ALPAv.vbg0FbrUFSu8FbI4F.ALPAv.vbg0FbrU1S0QG.AbPAwHCNzTC.yEVavwVYL81av8TczAP.GTPLxfCM0.fbu8FcN8FckAP.DT.Mx..aucmUkw1aikFc4AP.CT.L.fVZmglUkw1aikFc4AP.ETPLxbC.r81cN8FckAP.DT.Mx..ZocFZN8FckAP.DT.Mx.vbg0FbrUFQgQWXHE1bnAP.hT.Y4HSNzDCLzDlXyHiMwLFLkkSN1PiYkgCL4XFMyTCM4.P.YN0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLx...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.yL.XWXrUWY.DPAEDiKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvTC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CL1.fcgwVckAP.ET.Lt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLy.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.boQ2XnAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELWYtMGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvYgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAvElaPElbg0F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAk4lcM8FYkAUXxEVa.XWXrUWY.DPBD............L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAgQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAgQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvb0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEXVZrQWYx0zajUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfYowFckIWQtElXrUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPbPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAiUGcz8lYlAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuEyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuEyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1axLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1ax.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1axLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYWLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcwDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcwPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcwPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcwHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ISPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYmLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYmLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYmLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYmLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjIWdMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgWLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgmLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAjUFagk2Wr81ciUGc.XWXrUWY.DPBD.....B..KGP.L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wnk1YnMVczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48kYkUFYhE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YkwVX48EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX48UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbPAkE2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WsYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WscTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WnYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WncTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80bnEFbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbeYlbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbecVXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAlkFazUlbeEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAmEVZt80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvYgklaeYVXjUlb..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.TTPNvjCHHkFHHEFcf7Dbk4FHwDC.xUlckI2bkAP.CT.L.LWXsAGakQTXzElSg0VY.DPFEjCL4.BRoABRgQGHOAWYtARLw3hYrE1X.LWXsAGakkja.Dv.E.C.yEVavwVYL81avkja.Dv.E.C.yEVavwVYOUGc.DvAEHSMvfCN.LWXsAGakwzauA2S0QG.AbPAxTCL3fC.x81az4zazUF.APPAzXC.r81cVUFauMVZzkG.ALPAv..ZocFZVUFauMVZzkG.ATPAwHyM.v1a24zazUF.APPAzXC.nk1Yn4zazUF.APPAzXC.yEVavwVYDEFcggTXygF.AHRA2PiX0PyM0HVL2bCY2jyMz.CLhIVYiYlLwfyXjEVMiQC.Aj4TOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvHC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CLy.fcgwVckAP.ETPLt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SM..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvXC.1EFa0UF.ATPAv3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLw.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLybC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLz.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAvkFcigFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvbk41bPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAmEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBE.WXtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCETla10zajUFTgIWXsAfcgwVckAP.IP............vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEDFczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEDFczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QT.YkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAyU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfYowFckIWSuQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAlkFazUlbE4VXhwVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AfPAwAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELVczQ2alYFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8VLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8VLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuIyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuIyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcwDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ESPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ECQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ECQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1EiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYmLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcxDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcxPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcxPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcxHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPlb40TZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdwzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdxzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEHWY1Ulbh80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1WvIWYDUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAxUlckImXeMWZ5UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeQVYiEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkYWYxI1WjUlYo4VZzk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTfbkYWYxI1WjklYlU2bo8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEHWY1Ulbh8Eauc2P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXegVZmg1P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXew1a2QTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXegVZmgFQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8Ebg4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXe0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.IT.YoMGce8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2WzkGbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YoMGceQlboYWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wv81bzcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ecu4VY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wk0FbnE1boMG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjk1bz8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAig1axU2be8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8UauQVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFbzgF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2beIWXzUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAig1axU2be0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvXu0Fbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEL1asA2WzglbkMGZuwFY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEL1asA2WxEFco8F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAi8Vav8UXzQWXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAi8Vav8kbkwVYgMWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEL1asA2Wq4VYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTvXu0Fbe8VczAWczQjX..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVYrEVde8la..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCEPVYrEVdew1a2MVczAfcgwVckAP.IP.....H..rb.AvTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVYrEVdegVZmg1X0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAjUFagk2WlUVYjIVXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjUFagk2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjUFagk2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvAETVbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbewlQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbew1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe0lQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe01Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeglQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeg1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEXVZrQWYx80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2WygVXvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx8kYxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx80Ygkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEXVZrQWYx8Ub..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEbVXo41Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAmEVZt8kYgQVYxA..S8TUNQDSAkUQRAP.ND1XzklckAP.CTPL.3VXsUF.ADQA4.SNfHUZsAxTn8FcfHCL.HWY1UlbyUF.ALPAv.vbg0FbrUFQgQWXNEVakAP.VTPNvjCHRkVafLEZuQGHx.iKlwVXiAvbg0FbrUVRtAP.CT.L.LWXsAGakwzauAWRtAP.CT.L.LWXsAGak8TczAP.FTvM2PCM.LWXsAGakwzauA2S0QG.AXPA2bCMz.fbu8FcN8FckAP.DTvL2..aucmUkw1aikFc4AP.CT.L.fVZmglUkw1aikFc4AP.ETPLxbC.r81cN8FckAP.DTvL2..ZocFZN8FckAP.DTvL2.vbg0FbrUFQgQWXHE1bnAP.hTfY2PFLkUVMiEyL1DFNzTyM3PiYyXlL1LCL0fCNy.CLy.P.YN0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLx...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.yL.XWXrUWY.DPAEDiKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvTC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CL1.fcgwVckAP.ET.Lt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLy.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.boQ2XnAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELWYtMGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvYgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAvElaPElbg0F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAk4lcM8FYkAUXxEVa.XWXrUWY.DPBD............L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAgQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAgQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvb0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEXVZrQWYx0zajUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfYowFckIWQtElXrUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPbPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAiUGcz8lYlAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuEyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuEyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1axLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1ax.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1axLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYWLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcwDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcwPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcwPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcwHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ISPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYmLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYmLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYmLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYmLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjIWdMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgWLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgmLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAjUFagk2Wr81ciUGc.XWXrUWY.DPBD.....B..KGP.L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wnk1YnMVczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48kYkUFYhE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YkwVX48EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX48UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbPAkE2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WsYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WscTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WnYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WncTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80bnEFbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbeYlbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbecVXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAlkFazUlbeEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAmEVZt80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvYgklaeYVXjUlb..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.TTPNvjCHS4VXxUFHDIWcsARL3TC.xUlckI2bkAP.CT.L.LWXsAGakQTXzElSg0VY.DPFEjCL4.xTtElbkABQxUWafDCN03hYrE1X.LWXsAGakkja.Dv.E.C.yEVavwVYL81avkja.Dv.E.C.yEVavwVYOUGc.DvAELiLxTiM.LWXsAGakwzauA2S0QG.AbPAyHiL0XC.x81az4zazUF.APPAyfC.r81cVUFauMVZzkG.ALPAv..ZocFZVUFauMVZzkG.ATPAwHyM.v1a24zazUF.APPAyfC.nk1Yn4zazUF.APPAyfC.yEVavwVYDEFcggTXygF.AHRAjMFLyDiMzTVYhEVNjM1LjYFY1TyM4TSM2P1MxLVMxHC.Aj4TOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvHC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CLy.fcgwVckAP.ETPLt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SM..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvXC.1EFa0UF.ATPAv3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLw.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLybC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLz.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAvkFcigFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvbk41bPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAmEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBE.WXtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCETla10zajUFTgIWXsAfcgwVckAP.IP............vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEDFczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEDFczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QT.YkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAyU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfYowFckIWSuQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAlkFazUlbE4VXhwVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AfPAwAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELVczQ2alYFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8VLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8VLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuIyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuIyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcwDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ESPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ECQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ECQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1EiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYmLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcxDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcxPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcxPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcxHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPlb40TZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdwzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdxzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEHWY1Ulbh80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1WvIWYDUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAxUlckImXeMWZ5UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeQVYiEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkYWYxI1WjUlYo4VZzk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTfbkYWYxI1WjklYlU2bo8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEHWY1Ulbh8Eauc2P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXegVZmg1P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXew1a2QTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXegVZmgFQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8Ebg4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXe0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.IT.YoMGce8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2WzkGbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YoMGceQlboYWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wv81bzcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ecu4VY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wk0FbnE1boMG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjk1bz8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAig1axU2be8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8UauQVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFbzgF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2beIWXzUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAig1axU2be0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvXu0Fbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEL1asA2WzglbkMGZuwFY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEL1asA2WxEFco8F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAi8Vav8UXzQWXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAi8Vav8kbkwVYgMWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEL1asA2Wq4VYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTvXu0Fbe8VczAWczQjX..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVYrEVde8la..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCEPVYrEVdew1a2MVczAfcgwVckAP.IP.....H..rb.AvTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVYrEVdegVZmg1X0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAjUFagk2WlUVYjIVXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjUFagk2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjUFagk2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvAETVbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbewlQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbew1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe0lQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe01Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeglQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeg1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEXVZrQWYx80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2WygVXvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx8kYxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx80Ygkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEXVZrQWYx8Ub..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEbVXo41Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAmEVZt8kYgQVYxA..S8TUNQDSAkUQRAP.ND1XzklckAP.CTPL.3VXsUF.A7PA4.SNfP0asABRoABNz.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.APQA4.SNfP0asABRoABNz3hYrE1X.LWXsAGakkja.Dv.E.C.yEVavwVYL81avkja.Dv.E.C.yEVavwVYOUGc.DvAELyL1.CL.LWXsAGakwzauA2S0QG.AbPAyLiMv.C.x81az4zazUF.APPA0.C.r81cVUFauMVZzkG.ALPAv..ZocFZVUFauMVZzkG.ATPAwHyM.v1a24zazUF.APPA0.C.nk1Yn4zazUF.APPA0.C.yEVavwVYDEFcggTXygF.AHRAwPlYzXFM4fSL4jyMlAyLlMlX1HiLlASMgUyLkUiLvfC.Aj4TOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvHC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CLy.fcgwVckAP.ETPLt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SM..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvXC.1EFa0UF.ATPAv3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.SN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLw.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLybC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLz.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAvkFcigFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvbk41bPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAmEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBE.WXtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCETla10zajUFTgIWXsAfcgwVckAP.IP............vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEDFczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEDFczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QT.YkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAyU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfYowFckIWSuQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAlkFazUlbE4VXhwVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AfPAwAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELVczQ2alYFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8VLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8VLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8VLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuIyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuIyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuIyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuICQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcwDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ESPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ECQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ECQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1EiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYmLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcxDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcxPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcxPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcxHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPlb40TZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdwzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXFdxzTZ3AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEHWY1Ulbh80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1WvIWYDUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAxUlckImXeMWZ5UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeQVYiEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkYWYxI1WjUlYo4VZzk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTfbkYWYxI1WjklYlU2bo8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEHWY1Ulbh8Eauc2P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXegVZmg1P0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXew1a2QTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXegVZmgFQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8Ebg4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXe0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.IT.YoMGce8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2WzkGbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YoMGceQlboYWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wv81bzcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ecu4VY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVZyQ2Wk0FbnE1boMG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjk1bz8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAig1axU2be8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8UauQVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFbzgF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2beIWXzUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAig1axU2be0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvXu0Fbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEL1asA2WzglbkMGZuwFY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEL1asA2WxEFco8F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAi8Vav8UXzQWXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAi8Vav8kbkwVYgMWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEL1asA2Wq4VYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTvXu0Fbe8VczAWczQjX..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVYrEVde8la..vTOUkSDAUPRETSEQUQRAP.BjFY.DfCEPVYrEVdew1a2MVczAfcgwVckAP.IP.....H..rb.AvTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVYrEVdegVZmg1X0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAjUFagk2WlUVYjIVXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjUFagk2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjUFagk2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvAETVbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbewlQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbew1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe0lQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe01Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeglQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeg1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEXVZrQWYx80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2WygVXvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx8kYxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx80Ygkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEXVZrQWYx8Ub..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEbVXo41Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAmEVZt8kYgQVYxA..S8TUNQDSAkUQRAP.ND1XzklckAP.CTPL.3VXsUF.A.QA4.SNfP0asABSucGH3PC.xUlckI2bkAP.CT.L.LWXsAGakQTXzElSg0VY.DPEEjCL4.BUu0FHL81cffCMtXFagMF.yEVavwVYI4F.ALPAv.vbg0FbrUFSu8FbI4F.ALPAv.vbg0FbrU1S0QG.AbPAzPSL1.C.yEVavwVYL81av8TczAP.GT.MzDiMv.fbu8FcN8FckAP.DT.M0..aucmUkw1aikFc4AP.CT.L.fVZmglUkw1aikFc4AP.ETPLxbC.r81cN8FckAP.DT.M0..ZocFZN8FckAP.DT.M0.vbg0FbrUFQgQWXHE1bnAP.hTfMvXlLxTCYkISX4LVL0TSLvDCLhkSYkIyXgQVL1jSXgAP.YN0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CLx...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.yL.XWXrUWY.DPAEDiKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvTC..L0SU4DQPEjTA0TQTUjT.Df.oQF.AXPAw.CL1.fcgwVckAP.ET.Lt.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.CN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLy.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.boQ2XnAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELWYtMGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvYgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAvElaPElbg0F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAk4lcM8FYkAUXxEVa.XWXrUWY.DPBD............L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAgQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAgQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvb0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEXVZrQWYx0zajUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfYowFckIWQtElXrUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPbPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAiUGcz8lYlAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyTnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuEyPr81XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEvlYuEyPr81XqIUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8VLREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECSkYWYrAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECTnE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEvlYuEyT40VakQmb4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEvlYuECQkwVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiQgQVYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1axLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuIiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1ax.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1axLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1axPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTPYtYWLAQGcgM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXQAk4lcwDDczE1XqMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAk4lcwPTYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ATQAk4lcwPTYiEVdSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYWLSU2bzEVZtAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EiTkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbQAk4lcwHUYrUVXyU1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ISPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYmLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYmLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYmLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1IyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYmLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjIWdMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgWLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlgmLMkFdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.Df.oQF.A3PAjUFagk2Wr81ciUGc.XWXrUWY.DPBD.....B..KGP.L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wnk1YnMVczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48kYkUFYhE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YkwVX48EYkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX48UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AbPAkE2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WrcTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WsYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WscTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WnYjbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAkE2WncTXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80bnEFbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbeYlbkEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAlkFazUlbecVXo4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAlkFazUlbeEG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAmEVZt80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvYgklaeYVXjUlb..vTOUkSDwTPYUjT.DfCgMFcoYWY.Dv.EDC.tEVakAP.PTPNvjCHT8VafzTZjABNz.fbkYWYxMWY.Dv.E.C.yEVavwVYDEFcg4TXsUF.ATQA4.SNfP0asARSoQFH3PiKlwVXiAvbg0FbrUVRtAP.CT.L.LWXsAGakwzauAWRtAP.CT.L.LWXsAGak8TczAP.GTvLwfyMx.vbg0FbrUFSu8FbOUGc.DvAELSL3biL.H2auQmSuQWY.D.AEPCN.v1a2YUYr81XoQWd.Dv.E.C.nk1YnYUYr81XoQWd.DPAEDiL2..aucmSuQWY.D.AEPCN.fVZmglSuQWY.D.AEPCN.LWXsAGakQTXzEFRgMGZ.DfHEPFMhEVNybCYlciY0HlLlAiMlECMwjiM4HiYkACYigSN.DPlS8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.iL..vTOUkSDAUPRETSEQUQRAP.BjFY.DfAEDCLvLC.1EFa0UF.ATPAw3BL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL0...S8TUNQDTAIUPMUDUEIE.AHPZjAP.FTPLv.iM.XWXrUWY.DPAE.iKv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLv.yM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLvfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SLx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLwbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.SL3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvDSN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLx.C..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLw...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHiL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxLC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iLz...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHSM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxXC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.iL2...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvHCN..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLxjC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLv...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLSL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyHC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yLy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLCM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyTC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL1...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvLyM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLyfC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.yL4...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPCL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzDC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CMx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPyL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzPC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM0...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPiM..vTOUkSDAUPRETSEQUQRAP.AjFY.DfAEDCLzbC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AXPAw.CM3...S8TUNQDTAIUPMUDUEIE.ADPZjAP.FTPLvPSN..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CE.WZzMFZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAyUlayAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEbVXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.bg4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NTPYtYWSuQVYPElbg0F.1EFa0UF.Aj.A............S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTPXzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPXzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVYiEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAjU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELWcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkwVYgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAlkFazUlbM8FYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEXVZrQWYxUjagIFakAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.BEDGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvX0QGcuYlYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awLDauM1ZPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.APQArY1awLDauM1ZREFckAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEvlYuEiTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awvTY1UFaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1aw.EZgMWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQArY1awLUds0VYzIWdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QArY1awPTYrEVdPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1awXTXjUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLCw1aisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.TT.al8lLCw1aislTgQWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PArY1axHUXzUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLLUlckwFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLPgVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ST.al8lLSkWasUFcxkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.al8lLDUFagkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.al8lLFEFYkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDETla1ESPzQWXisFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.VTPYtYWLAQGcgM1ZSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTPYtYWLDU1XgkGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.UTPYtYWLDU1Xgk2TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDETla1EyT0MGcgklaPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcwHUYrUVXyUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.WTPYtYWLRUFakE1bkMEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAk4lcxDDczE1XqAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DfEETla1ISPzQWXis1TnEFbkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DETla1ICQkMVX4AUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DPEETla1ICQkMVX4MEZgAWYPElbg0F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAk4lcxLUcyQWXo4FTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTPYtYmLRUFakE1bkAUXxEVa..vTOUkSDAUPRETSEQUQRAP.AjFY.DvEETla1IiTkwVYgMWYSgVXvUFTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YxkWSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ESSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfY3ISSogGTgIWXsA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfbkYWYxI1Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXeAmbkQTYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEHWY1Ulbh80booWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEHWY1Ulbh8EYkMVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1Wyw1avUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUlckImXeQVYlklaoQWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAxUlckImXeQVZlYVcyk1atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfbkYWYxI1Wr81cCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EZocFZCUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEHWY1Ulbh8EaucGQg0Fb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EZocFZDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WvEla..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAjk1bz80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQWdvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjk1bz8EYxklckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceA2ayQ2Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2Wz8lakA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YoMGceUVavgVXyk1b..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVZyQ2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBELFZuIWcy80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2Ws8FYkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYvQGZ..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8kbgQWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CELFZuIWcy8UaogG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AjPAi8Vav80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTvXu0FbeQGZxU1bn8FajA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXu0FbeIWXzk1a..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEL1asA2WgQGcgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEL1asA2WxUFakE1bkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXu0FbeslakUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAi8Vav80a0QGb0QGQhA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YkwVX480atA..S8TUNQDTAIUPMUDUEIE.AHPZjAP.NT.YkwVX48Eauc2X0QG.1EFa0UF.Aj.A....f..vxAD.S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YkwVX48EZocFZiUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEPVYrEVdeYVYkQlXgM1Z..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEPVYrEVdeQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVYrEVde0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.GTPYw80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8UaGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZFIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTPYw8EZGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfYowFckI2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGZgAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80br8FbkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WlIWYwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfYowFckI2WmEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTfYowFckI2WwA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.ITvYgklae8la..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEbVXo41WlEFYkIG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAuUGcvUGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfauQWYO4lTkAWYgQG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAt8FckIUXzUlTkAWYgQG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAxUlckImXe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EbxUFQkwVX4A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTfbkYWYxI1WykldkA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WjU1XgkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvDEHWY1Ulbh8EYkYVZtkFco8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EYoYlY0MWZu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXew1a2MTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wnk1YnMTczA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cDEVavA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnQTXsAG..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAxUlckImXeAWXtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEPVZyQ2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjk1bz8Ec4AWY..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WjIWZ1UF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8EbuMGcGEVZtA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGceQ2atUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjk1bz8UYsAGZgMWZyA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.JT.YoMGce0VZ3A..S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTvXn8lb0M2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAig1axU2be01ajUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beQVYrEVd..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8EYkAGcnA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WxEFckA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEL1asA2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAi8Vav8EcnIWYyg1arQF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav8kbgQWZuA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeEFczE1XqA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeIWYrUVXyUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAi8Vav80ZtUVY..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WuUGcvUGcDIF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjUFagk2Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAjUFagk2Wr81ciUGc..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEPVYrEVdegVZmg1X0QG..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAjUFagk2WlUVYjIVXisF..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjUFagk2WjUFagkG..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAjUFagk2WskFd..vTOUkSDAUPRETSEQUQRAP.AjFY.DvAETVbe8la..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbewlQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbew1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe0lQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbe01Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeglQxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBETVbeg1Qgkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEXVZrQWYx80atA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2WygVXvUF..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeMGauAWY..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx8kYxUVb..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEXVZrQWYx80Ygkla..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEXVZrQWYx8Ub..vTOUkSDAUPRETSEQUQRAP.AjFY.DPBEbVXo41Wu4F..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAmEVZt8kYgQVYxA..S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTfbkYWYxI1Wu4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EbxUFQkwVX4IC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAxUlckImXeMWZ5UlL..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEHWY1Ulbh8EYkMVX4IC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXeMGauAWYx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.TTfbkYWYxI1WjUlYo4VZzk1atIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ALQAxUlckImXeQVZlYVcyk1atIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAxUlckImXew1a2MTczIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXegVZmg1P0QmL..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEHWY1Ulbh8EaucGQg0Fbx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.RTfbkYWYxI1Wnk1YnQTXsAmL..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEHWY1Ulbh8Ebg4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEHWY1Ulbh8UaogmL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEPVZyQ2Wu4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVZyQ2WzkGbkIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAjk1bz8EYxklckIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A.QAjk1bz8EbuMGcGEVZtIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjk1bz8Ecu4VYx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YoMGceUVavgVXyk1bx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YoMGce0VZ3IC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAig1axU2be8lax...S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXn8lb0M2Ws8FYkIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAig1axU2beQVYrEVdx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTvXn8lb0M2WjUFbzglL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8kbgQWYx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXn8lb0M2WskFdx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.JTvXu0Fbe8lax...S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTvXu0FbeQGZxU1bn8FajIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAi8Vav8kbgQWZuIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAi8Vav8UXzQWXislL..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEL1asA2WxUFakE1bkIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAi8Vav80ZtUVYx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTvXu0Fbe8VczAWczQjXx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KT.YkwVX480atIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAjUFagk2Wr81ciUGcx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YkwVX48EZocFZiUGcx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.QT.YkwVX48kYkUFYhE1XqIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAjUFagk2WjUFagkmL..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEPVYrEVde0VZ3IC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AfPAkE2Wu4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBETVbewlQxUVbx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTPYw8EaGEVZtIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAkE2WsYjbkEmL..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBETVbe01Qgklax...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTPYw8EZFIWYwIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAkE2WncTXo4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEXVZrQWYx80atIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAlkFazUlbeMGZgAWYx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfYowFckI2Wyw1avUlL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx8kYxUVbx...S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfYowFckI2WmEVZtIC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAlkFazUlbeEmL..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEbVXo41Wu4lL..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCEbVXo41WlEFYkImL..vTOUkSDAUPRETSEQUQRAP.AjFY.D.CEHWY1Ulbh80atMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AHQAxUlckImXeAmbkQTYrEVdy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTfbkYWYxI1WykldkMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAxUlckImXeQVYiEVdy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfbkYWYxI1Wyw1avU1L..vTOUkSDAUPRETSEQUQRAP.AjFY.D.EEHWY1Ulbh8EYkYVZtkFco8lay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.STfbkYWYxI1WjklYlU2bo8lay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.PTfbkYWYxI1Wr81cCUGcy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.QTfbkYWYxI1Wnk1YnMTczMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ADQAxUlckImXew1a2QTXsA2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DfDEHWY1Ulbh8EZocFZDEVavMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAxUlckImXeAWXtMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAxUlckImXe0VZ3MC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAjk1bz80atMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjk1bz8Ec4AWYy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.MT.YoMGceQlboYWYy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.PT.YoMGceA2ayQ2Qgklay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LT.YoMGceQ2atU1L..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEPVZyQ2Wk0FbnE1boM2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVZyQ2WskFdy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXn8lb0M2Wu41L..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCELFZuIWcy8UauQVYy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTvXn8lb0M2WjUFagk2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCELFZuIWcy8EYkAGcnMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAig1axU2beIWXzU1L..vTOUkSDAUPRETSEQUQRAP.AjFY.DPCELFZuIWcy8Uaog2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DfBEL1asA2Wu41L..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEL1asA2WzglbkMGZuwFYy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.MTvXu0FbeIWXzk1ay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.NTvXu0FbeEFczE1XqMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A7PAi8Vav8kbkwVYgMWYy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.LTvXu0FbeslakU1L..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEL1asA2WuUGcvUGcDI1L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBEPVYrEVde8lay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OT.YkwVX48Eauc2X0Q2L..vTOUkSDAUPRETSEQUQRAP.AjFY.D.DEPVYrEVdegVZmg1X0Q2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DPDEPVYrEVdeYVYkQlXgM1Zy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.NT.YkwVX48EYkwVX4MC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAjUFagk2WskFdy...S8TUNQDTAIUPMUDUEIE.ADPZjAP.HTPYw80atMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAkE2WrYjbkE2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBETVbew1Qgklay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTPYw8UaFIWYwMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.ArPAkE2WscTXo41L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvBETVbeglQxUVby...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTPYw8EZGEVZtMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AvPAlkFazUlbe8lay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.OTfYowFckI2WygVXvU1L..vTOUkSDAUPRETSEQUQRAP.AjFY.DvCEXVZrQWYx80br8FbkMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.A3PAlkFazUlbeYlbkE2L..vTOUkSDAUPRETSEQUQRAP.AjFY.DfCEXVZrQWYx80Ygklay...S8TUNQDTAIUPMUDUEIE.ADPZjAP.KTfYowFckI2WwMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AnPAmEVZt80atMC..L0SU4DQPEjTA0TQTUjT.DP.oQF.AzPAmEVZt8kYgQVYxMC...UPDAP.C3VXsUF.AHPA.31azUF.ATP.SA...j1Xu4F.ATP........TAQD.ALfag0VY.Df.E.fauQWY.DPAAPE...PZi8la.DPAA.......PEDQ.Dv.tEVakAP.BT..t8FckAP.EDPU....oM1atAP.ED........UPDAP.C3VXsUF.AHPA.31azUF.ATP.VA...j1Xu4F.ATP........TAQD.ALfag0VY.Df.E.fauQWY.DPAAbE...PZi8la.DPAA.......PEDQ.Dv.tEVakAP.BT..t8FckAP.ED.V....oM1atAP.ED........UPDAP.C3VXsUF.AHPA.31azUF.ATP.YA...j1Xu4F.ATP........TAQD.ALfag0VY.Df.E.fauQWY.DPAAnE...PZi8la.DPAA.......PEDQ.Dv.tEVakAP.BT..t8FckAP.EDvV....oM1atAP.ED........UPDAP.C3VXsUF.AHPA.31azUF.ATP.bA...j1Xu4F.ATP........TAQD.ALfag0VY.Df.E.fauQWY.DPAAzE...PZi8la.DPAA.......PEDQ.Dv.tEVakAP.BT..t8FckAP.EDfW....oM1atAP.ED........UPDAP.C3VXsUF.AHPA.31azUF.ATP.eA...j1Xu4F.ATP........TAQD.ALfag0VY.Df.E.fauQWY.DPAA.F...PZi8la.DPAA.......PEDQ.Dv.tEVakAP.BT..t8FckAP.EDPX....oM1atAP.ED........UPDAP.C3VXsUF.AHPA.31azUF.ATP.hA...j1Xu4F.ATP........"
+            base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1007" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1008" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1009" colour="ffffaa00">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <MIDICLIP name="New MIDI Clip" start="10.0" length="12.0" offset="0.0"
+              id="1081" sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="67" b="0.0" l="4.0" v="99" c="0"/>
+        <NOTE p="64" b="4.0" l="1.5" v="99" c="0"/>
+        <NOTE p="67" b="8.0" l="4.0" v="99" c="0"/>
+        <NOTE p="65" b="12.0" l="4.0" v="99" c="0"/>
+        <NOTE p="69" b="16.0" l="4.0" v="99" c="0"/>
+        <NOTE p="71" b="20.0" l="4.0" v="99" c="0"/>
+        <NOTE p="62" b="5.5" l="2.5" v="99" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="24.0" length="20.0" offset="0.0"
+              id="1086" sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="67" b="0.0" l="2.0" v="99" c="0"/>
+        <NOTE p="72" b="2.0" l="4.0" v="99" c="0"/>
+        <NOTE p="69" b="6.0" l="4.0" v="99" c="0"/>
+        <NOTE p="62" b="10.0" l="1.5" v="99" c="0"/>
+        <NOTE p="64" b="11.5" l="1.5" v="99" c="0"/>
+        <NOTE p="64" b="14.0" l="3.0" v="99" c="0"/>
+        <NOTE p="67" b="13.0" l="1.0" v="100" c="0"/>
+        <NOTE p="62" b="17.0" l="2.5" v="99" c="0"/>
+        <NOTE p="64" b="20.0" l="2.0" v="99" c="0"/>
+        <NOTE p="67" b="22.0" l="3.0" v="99" c="0"/>
+        <NOTE p="65" b="25.0" l="1.0" v="99" c="0"/>
+        <NOTE p="64" b="26.0" l="1.0" v="99" c="0"/>
+        <NOTE p="62" b="27.0" l="2.5" v="99" c="0"/>
+        <NOTE p="64" b="30.0" l="1.0" v="99" c="0"/>
+        <NOTE p="65" b="31.0" l="1.0" v="98" c="0"/>
+        <NOTE p="62" b="32.0" l="1.5" v="98" c="0"/>
+        <NOTE p="65" b="34.0" l="1.0" v="99" c="0"/>
+        <NOTE p="64" b="35.0" l="1.0" v="99" c="0"/>
+        <NOTE p="62" b="36.0" l="4.0" v="98" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="4osc" windowLocked="1" id="1079" enabled="1" filterType="1"
+            presetDirty="0" ampAttack="0.001000000047497451" ampDecay="8.886041641235352"
+            ampSustain="0.0" ampRelease="0.01629147119820118" ampVelocity="41.63125228881836"
+            filterAttack="0.0" filterDecay="0.4079767763614655" filterSustain="34.84848785400391"
+            filterRelease="1.112721562385559" filterFreq="87.23107147216797"
+            filterAmount="0.218999981880188" filterVelocity="50.0" masterLevel="-5.751228332519531"
+            tune1="-12.0" fineTune1="0.0" waveShape1="3" presetName="4OSC: Default Bass"
+            presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Default Bass.trkpreset"
+            level1="0.0" pulseWidth1="0.5" detune1="0.0" spread1="0.0" pan1="0.0"
+            tune2="0.0" fineTune2="0.0" level2="0.0" pulseWidth2="0.5" detune2="0.0"
+            spread2="0.0" pan2="0.0" fineTune3="0.0" level3="0.0" pulseWidth3="0.5"
+            detune3="0.0" fineTune4="0.0" level4="0.0" pulseWidth4="0.5"
+            lfoRate1="1.0" lfoDepth1="1.0" lfoRate2="1.0" lfoDepth2="1.0"
+            modAttack1="0.1000000014901161" modDecay1="0.1000000014901161"
+            modSustain1="80.0" modRelease1="0.1000000014901161" modAttack2="0.1000000014901161"
+            modDecay2="0.1000000014901161" modSustain2="80.0" modRelease2="0.1000000014901161"
+            filterResonance="0.5" filterKey="0.0" distortion="0.0" reverbSize="0.0"
+            reverbWidth="0.0" reverbMix="0.0" delayFeedback="-10.0" delayCrossfeed="-100.0"
+            delayMix="0.0" chosusSpeed="1.0" chorusDepth="3.0" chorusMix="0.0"
+            legato="0.0" windowX="2341" windowY="191">
+      <MODIFIERASSIGNMENTS/>
+      <MODMATRIX>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.1999531388282776"/>
+      </MODMATRIX>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1010" enabled="1" volume="0.615818202495575">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1011" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1012" colour="ffaaff00">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <MIDICLIP name="New MIDI Clip" start="24.0" length="20.5" offset="0.0"
+              id="1099" sync="0" currentTake="0" speed="1.0" colour="ffaaff00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="74" b="3.0" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="3.5" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="4.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="5.0" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="6.0" l="0.25" v="99" c="0"/>
+        <NOTE p="72" b="11.0" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="12.5" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="13.5" l="0.25" v="99" c="0"/>
+        <NOTE p="79" b="14.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="13.0" l="0.25" v="99" c="0"/>
+        <NOTE p="77" b="17.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="17.5" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="18.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="18.5" l="0.25" v="99" c="0"/>
+        <NOTE p="77" b="19.0" l="0.25" v="99" c="0"/>
+        <NOTE p="81" b="19.5" l="0.25" v="99" c="0"/>
+        <NOTE p="72" b="22.0" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="22.25" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="22.5" l="0.25" v="99" c="0"/>
+        <NOTE p="77" b="22.75" l="0.25" v="99" c="0"/>
+        <NOTE p="79" b="23.0" l="0.5" v="99" c="0"/>
+        <NOTE p="79" b="24.0" l="0.25" v="99" c="0"/>
+        <NOTE p="79" b="24.5" l="0.25" v="99" c="0"/>
+        <NOTE p="77" b="25.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="25.25" l="0.25" v="98" c="0"/>
+        <NOTE p="74" b="25.5" l="0.25" v="98" c="0"/>
+        <NOTE p="72" b="25.75" l="0.25" v="98" c="0"/>
+        <NOTE p="74" b="26.0" l="0.25" v="98" c="0"/>
+        <NOTE p="72" b="26.25" l="0.25" v="98" c="0"/>
+        <NOTE p="74" b="26.5" l="0.25" v="98" c="0"/>
+        <NOTE p="79" b="26.75" l="0.5" v="98" c="0"/>
+        <NOTE p="74" b="29.5" l="0.5" v="98" c="0"/>
+        <NOTE p="81" b="38.0" l="0.25" v="97" c="0"/>
+        <NOTE p="79" b="38.25" l="0.25" v="97" c="0"/>
+        <NOTE p="77" b="38.5" l="0.25" v="96" c="0"/>
+        <NOTE p="79" b="38.75" l="0.25" v="96" c="0"/>
+        <NOTE p="77" b="39.0" l="0.25" v="96" c="0"/>
+        <NOTE p="79" b="39.25" l="0.25" v="96" c="0"/>
+        <NOTE p="81" b="39.5" l="0.25" v="96" c="0"/>
+        <NOTE p="83" b="39.75" l="0.25" v="96" c="0"/>
+        <NOTE p="86" b="40.0" l="0.25" v="96" c="0"/>
+        <NOTE p="77" b="28.0" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="28.25" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="28.5" l="0.5" v="97" c="0"/>
+        <NOTE p="74" b="34.5" l="0.5" v="97" c="0"/>
+        <NOTE p="79" b="35.5" l="0.5" v="98" c="0"/>
+        <NOTE p="71" b="36.5" l="0.5" v="98" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="4osc" windowLocked="1" id="1097" enabled="1" filterType="1"
+            presetDirty="0" ampVelocity="32.53750228881836" filterAttack="0.0"
+            filterDecay="0.1345964670181274" filterSustain="0.0" filterFreq="64.98992156982422"
+            filterAmount="0.3700313568115234" waveShape1="2" presetName="4OSC: Pick Bass WMF"
+            presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Pick Bass WMF.trkpreset"
+            waveShape2="2" tune1="-12.0" filterSlope="24" filterResonance="9.929688453674316"
+            level2="-12.41361236572266" pulseWidth2="0.1100212559103966"
+            ampAttack="0.001000000047497451" ampDecay="47.78687286376953"
+            ampSustain="0.0" ampRelease="0.09198281168937683" filterRelease="0.1161216124892235"
+            fineTune2="-1.615623474121094" lfoRate1="2.510003566741943" filterKey="15.85312461853027"
+            lfoWaveShape1="1" tune3="-24.0" level3="-27.23699188232422" filterVelocity="78.93280029296875"
+            masterLevel="-10.01844024658203" waveShape3="4" lfoDepth1="0.1521406173706055"
+            modAttack1="0.0" modDecay1="12.40462875366211" modSustain1="0.0"
+            modRelease1="0.5509708523750305" pulseWidth1="0.1525554955005646"
+            legato="19.171875" voiceMode="0" fineTune1="0.0" level1="0.0"
+            detune1="0.0" tune2="0.0" detune2="0.0" fineTune3="0.0" detune3="0.0"
+            tune4="0.0" level4="0.0" pulseWidth4="0.5" detune4="0.0" lfoRate2="1.0"
+            modAttack2="0.1000000014901161" modDecay2="0.1000000014901161"
+            modSustain2="80.0" modRelease2="0.1000000014901161" reverbSize="0.0"
+            reverbDamping="0.0" reverbWidth="0.0" reverbMix="0.0" delayFeedback="-10.0"
+            delayMix="0.0" chorusDepth="3.0" chrousWidth="0.5" chorusMix="0.0"
+            windowX="2651" windowY="233">
+      <MODIFIERASSIGNMENTS/>
+      <MODMATRIX>
+        <MODMATRIXITEM modParam="lfoRate1" modItem="cc1" modDepth="0.04042187705636024"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.0"/>
+      </MODMATRIX>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1013" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1014" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1015" colour="ff00ff00">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1016" enabled="1" volume="0.7623699307441711">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1017" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1018" colour="ff00ffaa">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1019" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1020" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1021" colour="ff00aaff">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1022" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1023" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1024" colour="ff0000ff">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1025" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1026" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>
