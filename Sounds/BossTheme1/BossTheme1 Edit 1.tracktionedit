@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
+      lastSignificantChange="19c6c35aa4c" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="3.43" scrubInterval="0.7400000000000019"
+             start="0.0" loopPoint1="15.0" loopPoint2="15.3125"/>
+  <PITCHSEQUENCE>
+    <PITCH startBeat="0.0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0.0" bpm="120.0" curve="1.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0.0"/>
+  </TEMPOSEQUENCE>
+  <VIDEO/>
+  <CLICKTRACK level="0.6025595664978027"/>
+  <MASTERVOLUME>
+    <PLUGIN type="volume" volume="0.6290074586868286" id="1001" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+  </MASTERVOLUME>
+  <RACKS/>
+  <MASTERPLUGINS/>
+  <INPUTDEVICES>
+    <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
+      <INPUTDEVICEDESTINATION targetID="1003" targetIndex="0"/>
+    </INPUTDEVICE>
+  </INPUTDEVICES>
+  <TRACKCOMPS/>
+  <ARRANGERTRACK name="Arranger" id="1027"/>
+  <CHORDTRACK name="Chord" id="1029"/>
+  <MARKERTRACK id="1002" name="Marker"/>
+  <TEMPOTRACK name="Global" id="1028">
+    <MODIFIERS/>
+  </TEMPOTRACK>
+  <MASTERTRACK name="Master" id="1030">
+    <MODIFIERS/>
+  </MASTERTRACK>
+  <TRACK id="1003" colour="ffff0000">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <MIDICLIP name="New MIDI Clip" start="0.0" length="4.0" offset="0.0" id="1032"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="55" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="55" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="55" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="54" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="55" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="53" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="53" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="52" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="57" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="56" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="4.0" length="4.0" offset="0.0" id="1041"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="55" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="55" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="55" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="54" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="53" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="55" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="53" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="52" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="53" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="52" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="57" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="58" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="62" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="62" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="61" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="60" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="62" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="60" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="60" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="64" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="65" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="8.0" length="4.0" offset="0.0" id="1043"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="71" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="62" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="62" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="61" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="62" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="60" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="60" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="64" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="63" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="69" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="70" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="78" b="8.0" l="0.875" v="87" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="12.0" length="8.0" offset="0.0" id="1045"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="69" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="70" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="68" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="70" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="71" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="72" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="74" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="76" b="9.0" l="7.0" v="97" c="0"/>
+        <NOTE p="76" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="76" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="75" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="76" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="77" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="74" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="74" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="75" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="77" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="78" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="79" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="81" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="83" b="9.0" l="3.0" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="4osc" windowLocked="1" id="1031" enabled="1" filterType="1"
+            presetDirty="1" ampAttack="0.009431731887161732" ampDecay="10.49864292144775"
+            ampSustain="79.59999847412109" ampRelease="0.05918430536985397"
+            ampVelocity="43.59999465942383" filterAttack="0.01265437249094248"
+            filterDecay="0.08932967483997345" filterSustain="67.19999694824219"
+            filterRelease="0.141497328877449" filterFreq="77.26362609863281"
+            filterAmount="0.2960000038146973" masterLevel="-9.866546630859375"
+            waveShape1="3" presetName="4OSC: Solid Lead" presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSCSolidLead.trkpreset"
+            filterResonance="77.20000457763672" filterKey="42.0" filterVelocity="58.39999771118164"
+            distortion="0.3479999899864197" reverbSize="0.7080000638961792"
+            reverbWidth="1.0" reverbMix="0.1800000071525574" delay="1.0"
+            delayFeedback="-17.82471466064453" delayCrossfeed="-17.28933715820312"
+            delayMix="0.1439999938011169" chosusSpeed="1.475199937820435"
+            chorusDepth="2.363200187683105" chorusMix="0.1879999786615372"
+            legato="64.00001525878906" voiceMode="2" voices="12" filterSlope="24"
+            ampAnalog="0" distortionOn="1" reverbOn="1" delayOn="1" chorusOn="1"
+            tune1="0.0" fineTune1="-1.599998474121094" level1="-15.41030120849609"
+            pulseWidth1="0.5000000596046448" detune1="0.1260000020265579"
+            spread1="-2.400001525878906" pan1="-0.03199994564056396" voices1="1"
+            tune2="0.0" fineTune2="-0.7999725341796875" level2="-15.74269866943359"
+            pulseWidth2="0.5117599964141846" detune2="0.0" pan2="0.04799997806549072"
+            waveShape2="2" voices2="1" tune3="24.0" level3="-13.33978271484375"
+            waveShape3="0" tune4="36.0" level4="-13.49385070800781" waveShape4="0"
+            lfoRate1="7.679134845733643" lfoDepth1="0.656000018119812" lfoWaveShape1="1"
+            lfoRate2="5.536781311035156" lfoDepth2="0.4280000030994415" lfoWaveShape2="1"
+            modAttack1="8.121540304273367e-6" modDecay1="0.02638544887304306"
+            modSustain1="39.20000076293945" modRelease1="60.0" pan3="-0.007999956607818604"
+            pan4="0.01600003242492676" lfoBeat1="0.25" lfoSync1="1" lfoBeat2="0.5"
+            lfoSync2="1" spread2="0.0" fineTune3="0.0" pulseWidth3="0.5"
+            fineTune4="0.0" pulseWidth4="0.5" modAttack2="0.1000000014901161"
+            modDecay2="0.1000000014901161" modSustain2="80.0" modRelease2="0.1000000014901161"
+            windowX="1968" windowY="199">
+      <MODIFIERASSIGNMENTS/>
+      <MODMATRIX>
+        <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
+        <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
+        <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
+      </MODMATRIX>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1004" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1005" enabled="1"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1006" colour="ffffaa00">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1007" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1008" enabled="1"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1009" colour="ffaaff00">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1010" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1011" enabled="1"/>
+  </TRACK>
+  <TRACK id="1012" colour="ff00ff00">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1013" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1014" enabled="1"/>
+  </TRACK>
+  <TRACK id="1015" colour="ff00ffaa">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1016" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1017" enabled="1"/>
+  </TRACK>
+  <TRACK id="1018" colour="ff00aaff">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1019" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1020" enabled="1"/>
+  </TRACK>
+  <TRACK id="1021" colour="ff0000ff">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1022" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1023" enabled="1"/>
+  </TRACK>
+  <TRACK id="1024" colour="ffaa00ff">
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1025" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1026" enabled="1"/>
+  </TRACK>
+  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
+             browserSelection="result/all" viewleft="-0.6694813027744289"
+             viewright="36.33051869722567" sidePanelsShown="0" midiEditorShown="1"/>
+  <EDITMIXGROUPS/>
+  <SCENES/>
+  <AUDIOEDITING/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.328125" visibleProportion="0.2846971452236176"
+                 leftTime="0.0" rightTime="4.803157790764617"/>
+  <AUTOMAPXML/>
+</EDIT>
