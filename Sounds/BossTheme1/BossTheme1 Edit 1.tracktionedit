@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19c71184e52" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="27.51" scrubInterval="0.5352162964488724"
-             start="22.0" loopPoint1="24.0" loopPoint2="24.5"/>
+      lastSignificantChange="19c7267acaa" modifiedBy="jacob">
+  <TRANSPORT endToEnd="1" position="10.75" scrubInterval="0.5352162964488724"
+             start="10.75" loopPoint1="24.0" loopPoint2="24.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -22,7 +22,7 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1003" targetIndex="0"/>
     </INPUTDEVICE>
     <INPUTDEVICE deviceID="wavein_d7bd293b" name="Input 1"/>
     <INPUTDEVICE deviceID="wavein_d7bd293c" name="Input 2"/>
@@ -30,13 +30,13 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="0.3913253657210127" viewright="27.15214018816463"
+             browserSelection="result/all" viewleft="2.087225918678566" viewright="28.84804074112218"
              sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.302824854850769"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3824398148279248" visibleProportion="0.25"
-                 leftTime="14.2687707641196" rightTime="18.26877076411959"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3671875" visibleProportion="0.25"
+                 leftTime="8.0" rightTime="12.0"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -264,7 +264,7 @@
             lfoSync2="1" spread2="0.0" fineTune3="0.0" pulseWidth3="0.5"
             fineTune4="0.0" pulseWidth4="0.5" modAttack2="0.1000000014901161"
             modDecay2="0.1000000014901161" modSustain2="80.0" modRelease2="0.1000000014901161"
-            windowX="1968" windowY="199">
+            windowX="1051" windowY="233">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
