@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19c6d72b105" modifiedBy="jacob">
-  <TRANSPORT endToEnd="1" position="25.94" scrubInterval="0.740000000000002"
-             start="20.0" loopPoint1="15.0" loopPoint2="15.3125"/>
+      lastSignificantChange="19c71184e52" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="27.51" scrubInterval="0.5352162964488724"
+             start="22.0" loopPoint1="24.0" loopPoint2="24.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -22,7 +22,7 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0"/>
     </INPUTDEVICE>
     <INPUTDEVICE deviceID="wavein_d7bd293b" name="Input 1"/>
     <INPUTDEVICE deviceID="wavein_d7bd293c" name="Input 2"/>
@@ -30,13 +30,13 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="-0.6587537091988146"
-             viewright="36.34124629080128" sidePanelsShown="0" midiEditorShown="1"/>
+             browserSelection="result/all" viewleft="0.3913253657210127" viewright="27.15214018816463"
+             sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.302824854850769"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4206107135476737" visibleProportion="0.2161973267793655"
-                 leftTime="24.00303975058421" rightTime="26.00303975058408"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3824398148279248" visibleProportion="0.25"
+                 leftTime="14.2687707641196" rightTime="18.26877076411959"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -100,7 +100,7 @@
         <NOTE p="59" b="6.25" l="0.125" v="97" c="0"/>
         <NOTE p="64" b="6.5" l="0.5" v="97" c="0"/>
         <NOTE p="65" b="7.0" l="0.125" v="97" c="0"/>
-        <NOTE p="66" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="67" b="7.125" l="0.875" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -146,8 +146,8 @@
         <NOTE p="66" b="6.25" l="0.125" v="97" c="0"/>
         <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
         <NOTE p="70" b="7.0" l="0.125" v="97" c="0"/>
-        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
         <NOTE p="78" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -200,8 +200,9 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="20.0" length="6.0" offset="0.0" id="1059"
-              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+    <MIDICLIP name="New MIDI Clip" start="20.0" length="12.0" offset="0.0"
+              id="1059" sync="0" currentTake="0" speed="1.0" colour="ffff0000"
+              volDb="0.0">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
@@ -216,14 +217,17 @@
         <NOTE p="64" b="4.0" l="0.75" v="97" c="0"/>
         <NOTE p="69" b="4.75" l="0.25" v="97" c="0"/>
         <NOTE p="62" b="5.5" l="0.25" v="97" c="0"/>
-        <NOTE p="64" b="5.75" l="1.75" v="97" c="0"/>
-        <NOTE p="65" b="7.5" l="0.25" v="97" c="0"/>
+        <NOTE p="64" b="5.75" l="1.5" v="97" c="0"/>
+        <NOTE p="65" b="7.25" l="0.25" v="97" c="0"/>
         <NOTE p="64" b="8.0" l="0.25" v="97" c="0"/>
         <NOTE p="62" b="8.25" l="0.25" v="97" c="0"/>
         <NOTE p="60" b="8.5" l="0.25" v="97" c="0"/>
-        <NOTE p="62" b="8.75" l="0.75" v="97" c="0"/>
-        <NOTE p="59" b="9.5" l="1.0" v="97" c="0"/>
-        <NOTE p="65" b="10.5" l="0.75" v="97" c="0"/>
+        <NOTE p="62" b="8.75" l="0.25" v="97" c="0"/>
+        <NOTE p="60" b="9.0" l="1.0" v="97" c="0"/>
+        <NOTE p="59" b="10.0" l="0.25" v="97" c="0"/>
+        <NOTE p="59" b="10.75" l="0.25" v="97" c="0"/>
+        <NOTE p="60" b="11.125" l="0.875" v="97" c="0"/>
+        <NOTE p="58" b="11.0" l="0.125" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -282,7 +286,7 @@
   <TRACK id="1006" colour="ffffaa00">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="8.0" length="12.0" offset="0.0" id="1050"
+    <MIDICLIP name="New MIDI Clip" start="8.0" length="10.0" offset="0.0" id="1050"
               sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -296,6 +300,33 @@
         <NOTE p="67" b="16.0" l="1.0" v="97" c="0"/>
         <NOTE p="71" b="17.0" l="3.0" v="97" c="0"/>
         <NOTE p="66" b="15.0" l="0.125" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="22.0" length="4.0" offset="0.0" id="1073"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="55" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="55" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="55" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="54" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="55" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="53" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="55" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="55" b="6.0" l="0.25" v="97" c="0"/>
+        <NOTE p="57" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="56" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="7.125" l="0.875" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -545,6 +576,48 @@
           <CHANNEL/>
           <CHANNEL/>
           <CHANNEL pattern="10001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="22.0" length="4.0" offset="0.0" id="1071"
+              sequence="0" colour="ffaaff00" repeatSequence="1" volDb="-100.0">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="75" velocity="96" name="Claves"/>
+        <CHANNEL channel="1" note="70" velocity="96" name="Maracas"/>
+        <CHANNEL channel="1" note="63" velocity="96" name="Conga Hi"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="62" velocity="96" name="Conga Mid"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="56" velocity="96" name="Cowbell"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="64" velocity="96" name="Conga Low"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="101010101010101"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
           <CHANNEL/>
           <CHANNEL/>
         </PATTERN>
