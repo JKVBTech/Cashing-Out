@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19c77f81bfe" modifiedBy="jacob">
-  <TRANSPORT endToEnd="1" position="25.48314583333333" scrubInterval="1.249830455666777"
-             start="21.17647058823529" loopPoint1="15.69852941176471" loopPoint2="15.88235294117647"/>
+      lastSignificantChange="19c7b8da90c" modifiedBy="jacob">
+  <TRANSPORT endToEnd="1" position="28.72783333333333" scrubInterval="1.249830455666772"
+             start="22.94117647058824" loopPoint1="15.69852941176471" loopPoint2="15.88235294117647"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -26,18 +26,26 @@
     </INPUTDEVICE>
     <INPUTDEVICE deviceID="wavein_d7bd293b" name="Input 1"/>
     <INPUTDEVICE deviceID="wavein_d7bd293c" name="Input 2"/>
+    <INPUTDEVICE deviceID="wavein_e250cb5e" name="Input channel 1"/>
+    <INPUTDEVICE deviceID="wavein_e250cb5f" name="Input channel 2"/>
+    <INPUTDEVICE deviceID="wavein_e250cb60" name="Input channel 3"/>
+    <INPUTDEVICE deviceID="wavein_e250cb61" name="Input channel 4"/>
+    <INPUTDEVICE deviceID="wavein_e250cb62" name="Input channel 5"/>
+    <INPUTDEVICE deviceID="wavein_e250cb63" name="Input channel 6"/>
+    <INPUTDEVICE deviceID="wavein_e250cb64" name="Input channel 7"/>
+    <INPUTDEVICE deviceID="wavein_e250cb65" name="Input channel 8"/>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="-1.112608714243422" viewright="61.37891406909544"
+             browserSelection="result/all" viewleft="0.0" viewright="62.49152278333858"
              sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="0.0"
              scrollWhenPlaying="1" scrollSuspended="0"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.296875" visibleProportion="0.2392758578062057"
-                 leftTime="24.26470588235294" rightTime="26.02941176470588" triplets="0"
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2974176550301436" visibleProportion="0.2392758578062057"
+                 leftTime="27.50269472616631" rightTime="29.26740060851925" triplets="0"
                  scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
@@ -186,12 +194,29 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="22.94117647058824" length="1.764705882352938"
-              offset="0.0" id="1109" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+    <MIDICLIP name="New MIDI Clip" start="22.94116666666667" length="7.058823529411761"
+              offset="0.0" id="1114" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
-      <SEQUENCE ver="1" channelNumber="1"/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="65" b="0.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="0.75" l="0.375" v="98" c="0"/>
+        <NOTE p="66" b="3.5" l="0.3749999999999996" v="98" c="0"/>
+        <NOTE p="65" b="4.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="4.75" l="0.375" v="98" c="0"/>
+        <NOTE p="64" b="7.499999999999999" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="7.999999999999999" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="8.75" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="9.5" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="10.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="10.75" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="11.5" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="12.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="12.75" l="0.375" v="98" c="0"/>
+        <NOTE p="64" b="13.5" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="14.0" l="0.375" v="98" c="0"/>
+      </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
       </PATTERNGENERATOR>
@@ -227,12 +252,12 @@
             delayOn="0" chorusOn="0" waveShape3="2" waveShape4="2">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.699999988079071"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo1" modDepth="-0.5400000214576721"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="0.2199999988079071"/>
         <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
+        <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.699999988079071"/>
         <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.492000013589859"/>
-        <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1004" enabled="1">
@@ -500,53 +525,56 @@
   <TRACK id="1012" colour="ff00ff00" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="22.94117647058824" length="1.764705882352942"
+    <MIDICLIP name="New MIDI Clip" start="22.94117647058824" length="7.058823529411761"
               offset="0.0" id="1111" sync="0" currentTake="0" speed="1.0" colour="ff00ff00">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
       <SEQUENCE ver="1" channelNumber="1">
-        <NOTE p="79" b="0.0" l="3.0" v="98" c="0"/>
+        <NOTE p="79" b="0.0" l="1.5" v="98" c="0"/>
+        <NOTE p="72" b="1.5" l="1.5" v="98" c="0"/>
+        <NOTE p="77" b="3.5" l="0.25" v="98" c="0"/>
+        <NOTE p="77" b="4.0" l="1.5" v="99" c="0"/>
+        <NOTE p="72" b="5.499999999999999" l="0.9999999999999991" v="99" c="0"/>
+        <NOTE p="71" b="6.500000000000006" l="0.2500000000000133" v="99" c="0"/>
+        <NOTE p="72" b="6.75" l="0.25" v="99" c="0"/>
+        <NOTE p="74" b="6.999999999999992" l="0.25" v="99" c="0"/>
+        <NOTE p="76" b="7.249999999999999" l="0.25" v="99" c="0"/>
+        <NOTE p="79" b="7.499999999999999" l="6.499999999999999" v="99" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
     <PLUGIN type="4osc" windowLocked="1" id="1060" enabled="1" filterType="1"
-            presetDirty="0" ampAttack="0.009431731887161732" ampSustain="79.59999847412109"
-            ampRelease="0.05918430536985397" ampVelocity="43.59999465942383"
-            filterAttack="0.01265437249094248" filterDecay="0.08932967483997345"
-            filterSustain="67.19999694824219" filterRelease="0.141497328877449"
-            filterAmount="0.2960000038146973" waveShape1="3" presetName="4OSC: Solid Lead"
-            presetPath="C:\Users\jacob\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSCSolidLead.trkpreset"
-            filterResonance="77.20000457763672" filterVelocity="58.39999771118164"
-            filterSlope="24" tune1="0.0" pulseWidth1="0.5000000596046448"
-            level2="-15.74269866943359" waveShape2="2" legato="64.00001525878906"
-            masterLevel="-9.866546630859375" voiceMode="1" fineTune2="-0.7999725341796875"
-            fineTune1="-1.599998474121094" level1="-15.41030120849609" detune1="0.1260000020265579"
-            spread1="-2.400001525878906" pan1="-0.03199994564056396" detune2="0.0"
-            pan2="0.04799997806549072" lfoRate1="7.679134845733643" lfoDepth1="0.656000018119812"
-            filterFreq="77.26362609863281" filterKey="42.0" distortion="0.3479999899864197"
-            reverbSize="0.7080000638961792" reverbWidth="1.0" reverbMix="0.1800000071525574"
-            delayMix="0.1439999938011169" chosusSpeed="1.475199937820435"
-            chorusMix="0.1879999786615372" windowX="1189" windowY="441" delay="1.0"
-            delayFeedback="-17.82471466064453" delayCrossfeed="-17.28933715820312"
-            chorusDepth="2.363200187683105" ampAnalog="0" voices1="1" voices2="1"
-            pulseWidth2="0.5117599964141846" tune3="24.0" level3="-13.33978271484375"
-            ampDecay="10.49864292144775" voices="12" distortionOn="1" reverbOn="1"
-            delayOn="1" chorusOn="1" tune2="0.0" pan3="-0.007999956607818604"
-            waveShape3="0" tune4="36.0" level4="-13.49385070800781" pan4="0.01600003242492676"
-            waveShape4="0" lfoBeat1="0.25" lfoWaveShape1="1" lfoSync1="1"
-            lfoRate2="5.536781311035156" lfoBeat2="0.5" lfoDepth2="0.4280000030994415"
-            lfoWaveShape2="1" lfoSync2="1" modAttack1="8.121540304273367e-6"
-            modDecay1="0.02638544887304306" modSustain1="39.20000076293945"
-            modRelease1="60.0" spread2="0.0" chrousWidth="0.5">
+            presetDirty="0" ampAttack="0.001000000047497451" ampSustain="54.54544830322266"
+            ampRelease="0.2786574959754944" ampVelocity="24.90000152587891"
+            filterAttack="0.2776621282100677" filterDecay="4.179834365844727"
+            filterSustain="0.0" filterRelease="1.112721562385559" filterAmount="-0.4767500758171082"
+            waveShape1="3" presetName="4OSC: Stab Synth WMF" presetPath="C:\Users\jacob\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Stab Synth WMF.trkpreset"
+            filterFreq="135.0762329101562" windowX="1583" windowY="500" ampDecay="0.3388128280639648"
+            chorusMix="0.474671870470047" chorusOn="0" level1="-4.254966735839844"
+            level2="0.0" waveShape2="0" modAttack1="2.240365028381348" modDecay1="0.4165607392787933"
+            modSustain1="100.0" modRelease1="0.1148019656538963" filterKey="27.20780754089355"
+            filterSlope="24" fineTune3="0.0" level3="-100.0" chosusSpeed="0.6777859926223755"
+            masterLevel="-6.7139892578125" tune2="-12.0" waveShape3="5" tune3="0.0"
+            tune1="-12.0" fineTune1="-0.1656265258789062" pulseWidth1="0.5"
+            detune1="0.1273984462022781" pulseWidth2="0.4637974202632904"
+            detune2="0.1770468801259995" lfoRate1="6.047969341278076" lfoDepth1="0.2640781104564667"
+            lfoRate2="500.0" lfoDepth2="1.0" modAttack2="0.0" modDecay2="0.06315304338932037"
+            modSustain2="0.0" modRelease2="60.0" filterVelocity="0.0" reverbSize="0.283140629529953"
+            reverbWidth="1.0" reverbMix="0.3195937275886536" delayFeedback="-100.0"
+            delayCrossfeed="-100.0" delayMix="0.1232656538486481" reverbDamping="0.3131875097751617"
+            delay="0.125" reverbOn="1" delayOn="1" voices1="3" voices2="4"
+            spread3="0.0" voices3="1" lfoWaveShape2="6" tune4="0.0" fineTune4="0.0"
+            level4="0.0" filterResonance="0.5" chorusDepth="3.0">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
-        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
-        <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
-        <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
+        <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.1442812532186508"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
+        <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
+        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
+        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1">
