@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19c9a884fed" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="56.82666666666667" scrubInterval="1.443202143684605"
-             start="0.0" loopPoint1="78.75" loopPoint2="78.75"/>
+      lastSignificantChange="19c9fafd0ab" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="83.86666666666666" scrubInterval="1.707587727311208"
+             start="0.0" loopPoint1="50.18382352941176" loopPoint2="51.28676470588235"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -30,15 +30,15 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="-1.305671420703804" viewright="70.85443576352642"
-             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="0.0"
+             browserSelection="result/all" viewleft="75.2965854907855" viewright="160.6759718563459"
+             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="-14.0"
              scrollWhenPlaying="1" scrollSuspended="0" pluginAreaWidth="0.8748766779899597"
              midiEditorHeight="1.298305153846741" midiTypingWindowBounds="453 415 331 97"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3053656475884574" visibleProportion="0.2447587251663208"
-                 leftTime="54.00000000000006" rightTime="84.00000000000009" triplets="0"
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2578125" visibleProportion="0.4453125"
+                 leftTime="74.64705882352945" rightTime="157.5882352941177" triplets="0"
                  scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
@@ -135,7 +135,6 @@
         <NOTE p="65" b="0.0" l="0.375" v="98" c="0"/>
         <NOTE p="65" b="0.75" l="0.375" v="98" c="0"/>
         <NOTE p="66" b="1.5" l="0.3749999999999998" v="98" c="0"/>
-        <NOTE p="65" b="2.0" l="0.375" v="98" c="0"/>
         <NOTE p="65" b="2.75" l="0.375" v="98" c="0"/>
         <NOTE p="66" b="3.5" l="0.3749999999999996" v="98" c="0"/>
         <NOTE p="65" b="4.0" l="0.375" v="98" c="0"/>
@@ -157,7 +156,6 @@
         <NOTE p="72" b="0.0" l="0.375" v="98" c="0"/>
         <NOTE p="72" b="0.75" l="0.375" v="98" c="0"/>
         <NOTE p="73" b="1.5" l="0.3749999999999998" v="98" c="0"/>
-        <NOTE p="72" b="2.0" l="0.375" v="98" c="0"/>
         <NOTE p="72" b="2.75" l="0.375" v="98" c="0"/>
         <NOTE p="73" b="3.5" l="0.3749999999999996" v="98" c="0"/>
         <NOTE p="72" b="4.0" l="0.375" v="98" c="0"/>
@@ -294,35 +292,12 @@
         <NOTE p="65" b="14.75" l="0.375" v="99" c="0"/>
         <NOTE p="64" b="15.5" l="0.375" v="95" c="0"/>
         <NOTE p="65" b="16.00000000000001" l="0.3749999999999858" v="95" c="0"/>
-        <NOTE p="73" b="3.5" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="4.0" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="4.75" l="0.375" v="99" c="0"/>
-        <NOTE p="71" b="7.499999999999999" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="8.000000000000014" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="8.75" l="0.375" v="99" c="0"/>
-        <NOTE p="73" b="11.50000000000001" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="12.00000000000001" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="12.75" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="13.50000000000001" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="14.00000000000001" l="0.375" v="99" c="0"/>
-        <NOTE p="72" b="14.75" l="0.375" v="99" c="0"/>
-        <NOTE p="71" b="15.5" l="0.375" v="95" c="0"/>
-        <NOTE p="72" b="16.00000000000001" l="0.3749999999999858" v="95" c="0"/>
         <NOTE p="59" b="19.5" l="0.375" v="98" c="0"/>
         <NOTE p="60" b="20.00000000000001" l="0.375" v="98" c="0"/>
         <NOTE p="59" b="20.75" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="19.5" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="20.00000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="20.75" l="0.375" v="98" c="0"/>
         <NOTE p="59" b="23.5" l="0.375" v="98" c="0"/>
         <NOTE p="60" b="24.0" l="0.375" v="98" c="0"/>
         <NOTE p="59" b="24.75000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="59" b="27.49999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="60" b="27.99999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="59" b="28.75" l="0.375" v="98" c="0"/>
-        <NOTE p="59" b="31.50000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="60" b="32.0" l="0.375" v="98" c="0"/>
-        <NOTE p="59" b="32.75" l="0.375" v="98" c="0"/>
         <NOTE p="60" b="35.50000000000001" l="0.375" v="98" c="0"/>
         <NOTE p="61" b="36.0" l="0.375" v="98" c="0"/>
         <NOTE p="60" b="36.74999999999999" l="0.375" v="98" c="0"/>
@@ -352,27 +327,6 @@
         <NOTE p="63" b="58.74999999999999" l="0.375" v="96" c="0"/>
         <NOTE p="63" b="59.50000000000001" l="0.375" v="96" c="0"/>
         <NOTE p="64" b="60.00000000000001" l="0.375" v="96" c="0"/>
-        <NOTE p="64" b="62.0" l="0.375" v="96" c="0"/>
-        <NOTE p="64" b="62.75" l="0.375" v="96" c="0"/>
-        <NOTE p="63" b="63.5" l="0.375" v="96" c="0"/>
-        <NOTE p="66" b="23.5" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="24.0" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="24.75000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="27.49999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="27.99999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="28.75" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="31.50000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="32.0" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="32.75" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="35.50000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="68" b="36.0" l="0.375" v="98" c="0"/>
-        <NOTE p="67" b="36.74999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="68" b="39.5" l="0.3749999999999787" v="98" c="0"/>
-        <NOTE p="69" b="40.00000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="68" b="40.75000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="69" b="43.50000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="70" b="44.00000000000001" l="0.375" v="98" c="0"/>
-        <NOTE p="69" b="44.75000000000001" l="0.375" v="98" c="0"/>
         <NOTE p="70" b="47.50000000000001" l="0.375" v="98" c="0"/>
         <NOTE p="71" b="48.00000000000001" l="0.375" v="98" c="0"/>
         <NOTE p="70" b="48.75000000000001" l="0.375" v="98" c="0"/>
@@ -401,14 +355,22 @@
         <NOTE p="63" b="61.50000000000001" l="0.375" v="96" c="0"/>
         <NOTE p="63" b="60.75000000000001" l="0.375" v="96" c="0"/>
         <NOTE p="71" b="64.00000000000001" l="0.375" v="96" c="0"/>
-        <NOTE p="64" b="64.00000000000001" l="0.375" v="96" c="0"/>
+        <NOTE p="59" b="27.5" l="0.375" v="99" c="0"/>
+        <NOTE p="60" b="28.0" l="0.375" v="99" c="0"/>
+        <NOTE p="59" b="28.74999999999999" l="0.375" v="99" c="0"/>
+        <NOTE p="58" b="29.5" l="0.375" v="99" c="0"/>
+        <NOTE p="59" b="30.0" l="0.375" v="99" c="0"/>
+        <NOTE p="60" b="30.75" l="0.375" v="99" c="0"/>
+        <NOTE p="59" b="31.5" l="0.375" v="95" c="0"/>
+        <NOTE p="60" b="32.0" l="0.3749999999999858" v="95" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="70.58823529411765" length="10.58824142156857"
-              offset="0.0" id="1136" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+    <MIDICLIP name="New MIDI Clip" start="70.58823529411765" length="12.35294117647058"
+              offset="0.0" id="1136" sync="0" currentTake="0" speed="1.0" colour="ffff0000"
+              volDb="0.0">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
@@ -416,17 +378,17 @@
         <NOTE p="65" b="0.0" l="0.375" v="98" c="0"/>
         <NOTE p="65" b="0.75" l="0.375" v="98" c="0"/>
         <NOTE p="66" b="1.5" l="0.3749999999999998" v="98" c="0"/>
-        <NOTE p="65" b="6.5" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="7.249999999999999" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="6.0" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="12.0" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="12.75" l="0.375" v="98" c="0"/>
-        <NOTE p="64" b="13.5" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="18.0" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="18.75" l="0.375" v="98" c="0"/>
-        <NOTE p="64" b="19.5" l="0.375" v="98" c="0"/>
-        <NOTE p="65" b="20.0" l="0.375" v="98" c="0"/>
-        <NOTE p="66" b="7.999999999999972" l="0.3750000000000284" v="100" c="0"/>
+        <NOTE p="65" b="4.999999999999999" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="5.999999999999998" l="0.375" v="98" c="0"/>
+        <NOTE p="66" b="4.499999999999999" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="11.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="13.0" l="0.375" v="98" c="0"/>
+        <NOTE p="64" b="15.0" l="0.375" v="98" c="0"/>
+        <NOTE p="65" b="18.0" l="1.0" v="98" c="0"/>
+        <NOTE p="65" b="20.0" l="0.9999999999999964" v="98" c="0"/>
+        <NOTE p="64" b="22.0" l="1.0" v="98" c="0"/>
+        <NOTE p="65" b="24.0" l="4.000013888888759" v="98" c="0"/>
+        <NOTE p="64" b="6.999999999999999" l="0.3750000000000284" v="100" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -471,7 +433,7 @@
         <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
       </MODMATRIX>
     </PLUGIN>
-    <PLUGIN type="volume" id="1004" enabled="1" volume="0.6459906101226807">
+    <PLUGIN type="volume" id="1004" enabled="1" volume="0.6244388818740845">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1005" enabled="1">
@@ -554,13 +516,13 @@
         <NOTE p="43" b="4.0" l="1.499999999999999" v="98" c="0"/>
         <NOTE p="41" b="5.499999999999986" l="2.000000000000013" v="98" c="0"/>
         <NOTE p="43" b="7.499999999999986" l="0.5000000000000133" v="98" c="0"/>
-        <NOTE p="41" b="8.0" l="10.0" v="98" c="0"/>
+        <NOTE p="41" b="8.0" l="11.99999999999997" v="98" c="0"/>
         <NOTE p="50" b="0.0" l="1.5" v="98" c="0"/>
         <NOTE p="52" b="1.5" l="2.5" v="98" c="0"/>
         <NOTE p="50" b="4.0" l="1.499999999999999" v="98" c="0"/>
         <NOTE p="48" b="5.499999999999986" l="2.000000000000013" v="98" c="0"/>
         <NOTE p="50" b="7.499999999999986" l="0.5000000000000133" v="98" c="0"/>
-        <NOTE p="48" b="8.0" l="10.0" v="98" c="0"/>
+        <NOTE p="48" b="8.0" l="11.99999999999997" v="98" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -585,6 +547,7 @@
         <NOTE p="43" b="40.0" l="3.999999999999979" v="100" c="0"/>
         <NOTE p="44" b="43.99999999999999" l="4.0" v="100" c="0"/>
         <NOTE p="40" b="48.0" l="15.99999999999999" v="100" c="0"/>
+        <NOTE p="47" b="48.0" l="15.99999999999999" v="100" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -618,7 +581,7 @@
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1009" colour="ffaaff00" height="36.375">
+  <TRACK id="1009" colour="ffaaff00" height="34.375">
     <MODIFIERS/>
     <CLIPSLOTS/>
     <STEPCLIP name="New Step Clip" start="12.35294117647059" length="1.764705882352942"
@@ -877,7 +840,7 @@
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
-    <STEPCLIP name="New Step Clip" start="33.52941176470588" length="1.764705882352942"
+    <STEPCLIP name="New Step Clip" start="33.52941176470588" length="1.764705882352949"
               offset="0.0" id="1168" sequence="0" colour="ffaaff00" repeatSequence="1">
       <AUTOMATIONCURVES/>
       <CHANNELS>
@@ -896,16 +859,592 @@
       <PATTERNS>
         <PATTERN numNotes="16" noteLength="0.25">
           <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000001000"/>
+          <CHANNEL pattern="100000001000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000101000001"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000101000001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="35.29411764705883" length="1.764705882352942"
+              offset="0.0" id="1169" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="1000"/>
+          <CHANNEL pattern="1000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="40.58823529411764" length="0.5574847267394887"
+              offset="0.0" id="1170" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="42.35294117647059" length="1.764705882352942"
+              offset="0.0" id="1192" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="43.23529411764706" length="1.764705882352942"
+              offset="0.0" id="1171" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="101000001"/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="45.0" length="1.764705882352942"
+              offset="0.0" id="1173" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100100000000000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="101000001"/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="46.76470588235294" length="1.323529411764696"
+              offset="0.0" id="1174" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000001"/>
+          <CHANNEL pattern="1001000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="48.08823529411764" length="1.323529411764703"
+              offset="0.0" id="1193" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL/>
+          <CHANNEL pattern="10000010000"/>
+          <CHANNEL pattern="10000010000"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="49.41177083333333" length="2.205882352941181"
+              offset="0.0" id="1180" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000100000000"/>
+          <CHANNEL pattern="100000100000001"/>
+          <CHANNEL pattern="100000100000000"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="52.05882965686275" length="1.764705882352942"
+              offset="0.0" id="1182" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL pattern="100100000000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL pattern="101000001"/>
+          <CHANNEL pattern="1000001"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="53.82353553921569" length="1.764705882352942"
+              offset="0.0" id="1183" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="100000001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000001"/>
+          <CHANNEL pattern="1001000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="100000001"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="56.02941176470588" length="0.8823529411764568"
+              offset="0.0" id="1184" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10000100"/>
+          <CHANNEL pattern="10010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="57.79412499999999" length="0.8823529411764568"
+              offset="0.0" id="1185" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="10000100"/>
+          <CHANNEL pattern="10010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="59.55882352941176" length="0.8823529411764568"
+              offset="0.0" id="1186" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10000100"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="10010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="61.3235294117647" length="1.764705882352942"
+              offset="0.0" id="1187" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1000000010000"/>
+          <CHANNEL pattern="1000010010000000"/>
+          <CHANNEL pattern="1000000010000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1000010010000000"/>
+          <CHANNEL pattern="1001010010010000"/>
+          <CHANNEL pattern="100"/>
+          <CHANNEL pattern="100"/>
+          <CHANNEL pattern="1001010010010000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="63.08823529411764" length="1.764705882352935"
+              offset="0.0" id="1189" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1000000010100"/>
+          <CHANNEL pattern="1000000010000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="1000010010000100"/>
+          <CHANNEL pattern="1001010010010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1001010010010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="64.85294117647058" length="1.764705882352942"
+              offset="0.0" id="1188" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1000000010000"/>
+          <CHANNEL pattern="1000010010000000"/>
+          <CHANNEL pattern="1000000010000"/>
+          <CHANNEL pattern="0"/>
+          <CHANNEL pattern="1000010010000100"/>
+          <CHANNEL pattern="1001010010010100"/>
           <CHANNEL pattern="0"/>
           <CHANNEL pattern="0"/>
-          <CHANNEL/>
-          <CHANNEL/>
-          <CHANNEL/>
-          <CHANNEL/>
-          <CHANNEL/>
-          <CHANNEL/>
-          <CHANNEL/>
+          <CHANNEL pattern="1001010010010100"/>
           <CHANNEL pattern="0"/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="66.61764583333331" length="1.764705882352928"
+              offset="0.0" id="1190" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="1001000000000000"/>
+          <CHANNEL pattern="10100"/>
+          <CHANNEL pattern="1001000000010000"/>
+          <CHANNEL/>
+          <CHANNEL pattern="10010000100"/>
+          <CHANNEL pattern="1001010010010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1001010010010100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="68.38235294117646" length="1.764705882352942"
+              offset="0.0" id="1191" sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="51" velocity="96" name="Ride"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL pattern="10000"/>
+          <CHANNEL pattern="10100"/>
+          <CHANNEL pattern="10000"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="10100"/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="10100"/>
+          <CHANNEL/>
+          <CHANNEL/>
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
@@ -915,7 +1454,7 @@
             base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="volume" id="1010" enabled="1" volume="0.7365078330039978">
+    <PLUGIN type="volume" id="1010" enabled="1" volume="0.6244388818740845">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1011" enabled="1">
@@ -943,7 +1482,8 @@
         <NOTE p="72" b="6.75" l="0.25" v="99" c="0"/>
         <NOTE p="74" b="6.999999999999992" l="0.25" v="99" c="0"/>
         <NOTE p="76" b="7.249999999999999" l="0.25" v="99" c="0"/>
-        <NOTE p="79" b="7.499999999999999" l="8.499999999999993" v="99" c="0"/>
+        <NOTE p="79" b="7.499999999999999" l="8.499999999999993" v="99" c="0"
+              m="0"/>
         <NOTE p="82" b="0.0" l="1.5" v="98" c="0"/>
         <NOTE p="86" b="0.0" l="1.5" v="98" c="0"/>
         <NOTE p="75" b="1.5" l="1.5" v="98" c="0"/>
@@ -1026,9 +1566,9 @@
         <NOTE p="81" b="12.0" l="0.75" v="99" c="0"/>
         <NOTE p="84" b="12.0" l="0.75" v="99" c="0"/>
         <NOTE p="88" b="12.0" l="0.75" v="99" c="0"/>
-        <NOTE p="81" b="13.49999999999999" l="0.5000000000000124" v="99" c="0"/>
-        <NOTE p="84" b="13.49999999999999" l="0.5000000000000124" v="99" c="0"/>
-        <NOTE p="88" b="13.5" l="0.5" v="99" c="0"/>
+        <NOTE p="84" b="13.5" l="0.5000000000000124" v="99" c="0"/>
+        <NOTE p="87" b="13.5" l="0.5000000000000124" v="99" c="0"/>
+        <NOTE p="91" b="13.5" l="0.5" v="99" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -1090,12 +1630,9 @@
         <NOTE p="64" b="20.0" l="1.999999999999996" v="98" c="0"/>
         <NOTE p="64" b="24.0" l="2.0" v="99" c="0"/>
         <NOTE p="65" b="27.50000000000001" l="0.4999999999999822" v="99" c="0"/>
-        <NOTE p="67" b="28.0" l="1.999999999999996" v="99" c="0"/>
         <NOTE p="65" b="23.5" l="0.5" v="98" c="0"/>
         <NOTE p="64" b="22.0" l="1.5" v="98" c="0"/>
         <NOTE p="64" b="26.0" l="1.5" v="99" c="0"/>
-        <NOTE p="67" b="30.0" l="1.499999999999996" v="99" c="0"/>
-        <NOTE p="68" b="31.5" l="0.4999999999999964" v="99" c="0"/>
         <NOTE p="67" b="32.0" l="2.0" v="99" c="0"/>
         <NOTE p="68" b="35.5" l="0.5" v="99" c="0"/>
         <NOTE p="68" b="36.0" l="2.0" v="99" c="0"/>
@@ -1146,12 +1683,6 @@
         <NOTE p="71" b="26.0" l="1.5" v="99" c="0"/>
         <NOTE p="68" b="27.50000000000001" l="0.4999999999999822" v="99" c="0"/>
         <NOTE p="72" b="27.50000000000001" l="0.4999999999999822" v="99" c="0"/>
-        <NOTE p="70" b="28.0" l="1.999999999999996" v="99" c="0"/>
-        <NOTE p="74" b="28.0" l="1.999999999999996" v="99" c="0"/>
-        <NOTE p="70" b="30.0" l="1.499999999999996" v="99" c="0"/>
-        <NOTE p="74" b="30.0" l="1.499999999999996" v="99" c="0"/>
-        <NOTE p="71" b="31.5" l="0.4999999999999964" v="99" c="0"/>
-        <NOTE p="75" b="31.5" l="0.4999999999999964" v="99" c="0"/>
         <NOTE p="70" b="32.0" l="2.0" v="99" c="0"/>
         <NOTE p="74" b="32.0" l="2.0" v="99" c="0"/>
         <NOTE p="70" b="34.0" l="1.5" v="99" c="0"/>
@@ -1174,61 +1705,131 @@
         <NOTE p="77" b="44.00000000000001" l="1.999999999999979" v="97" c="0"/>
         <NOTE p="73" b="46.00000000000001" l="1.499999999999986" v="97" c="0"/>
         <NOTE p="77" b="46.00000000000001" l="1.499999999999986" v="97" c="0"/>
-        <NOTE p="74" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
-        <NOTE p="78" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
-        <NOTE p="73" b="48.0" l="0.75" v="96" c="0"/>
-        <NOTE p="77" b="48.0" l="0.75" v="96" c="0"/>
-        <NOTE p="73" b="48.75" l="0.7499999999999929" v="96" c="0"/>
-        <NOTE p="77" b="48.75" l="0.7499999999999929" v="96" c="0"/>
-        <NOTE p="74" b="49.49999999999999" l="0.5" v="96" c="0"/>
-        <NOTE p="78" b="49.49999999999999" l="0.5" v="96" c="0"/>
-        <NOTE p="73" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
-        <NOTE p="77" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
-        <NOTE p="73" b="50.75000000000001" l="0.75" v="96" c="0"/>
-        <NOTE p="77" b="50.75000000000001" l="0.75" v="96" c="0"/>
-        <NOTE p="74" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
-        <NOTE p="78" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
-        <NOTE p="73" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
-        <NOTE p="77" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
-        <NOTE p="73" b="52.75000000000001" l="0.75" v="96" c="0"/>
-        <NOTE p="77" b="52.75000000000001" l="0.75" v="96" c="0"/>
-        <NOTE p="72" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
-        <NOTE p="76" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
-        <NOTE p="73" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
-        <NOTE p="77" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
-        <NOTE p="73" b="54.74999999999999" l="0.75" v="96" c="0"/>
-        <NOTE p="77" b="54.74999999999999" l="0.75" v="96" c="0"/>
-        <NOTE p="74" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
-        <NOTE p="78" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
-        <NOTE p="73" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
-        <NOTE p="77" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
-        <NOTE p="73" b="56.74999999999999" l="0.75" v="95" c="0"/>
-        <NOTE p="77" b="56.74999999999999" l="0.75" v="95" c="0"/>
-        <NOTE p="74" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
-        <NOTE p="78" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
-        <NOTE p="73" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
-        <NOTE p="77" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
-        <NOTE p="73" b="58.74999999999999" l="0.75" v="95" c="0"/>
-        <NOTE p="77" b="58.74999999999999" l="0.75" v="95" c="0"/>
-        <NOTE p="74" b="59.5" l="0.4999999999999787" v="95" c="0"/>
-        <NOTE p="78" b="59.5" l="0.4999999999999787" v="95" c="0"/>
-        <NOTE p="73" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
-        <NOTE p="77" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
-        <NOTE p="73" b="60.75" l="0.75" v="95" c="0"/>
-        <NOTE p="77" b="60.75" l="0.75" v="95" c="0"/>
-        <NOTE p="74" b="61.5" l="0.4999999999999929" v="94" c="0"/>
-        <NOTE p="78" b="61.5" l="0.4999999999999929" v="94" c="0"/>
-        <NOTE p="73" b="61.99999999999999" l="0.75" v="94" c="0"/>
-        <NOTE p="77" b="61.99999999999999" l="0.75" v="94" c="0"/>
         <NOTE p="70" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
-        <NOTE p="73" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
-        <NOTE p="77" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
         <NOTE p="69" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
-        <NOTE p="72" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
-        <NOTE p="76" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
-        <NOTE p="77" b="63.99999999999999" l="0.75" v="94" c="0"/>
-        <NOTE p="73" b="63.99999999999999" l="0.75" v="94" c="0"/>
         <NOTE p="70" b="63.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="73" b="28.00000000000001" l="0.7499999999999858" v="99" c="0"/>
+        <NOTE p="69" b="28.00000000000001" l="0.7499999999999858" v="99" c="0"/>
+        <NOTE p="66" b="28.00000000000001" l="0.7499999999999858" v="99" c="0"/>
+        <NOTE p="65" b="28.75000000000003" l="0.75" v="99" c="0"/>
+        <NOTE p="68" b="28.75000000000003" l="0.75" v="99" c="0"/>
+        <NOTE p="72" b="28.75000000000003" l="0.75" v="99" c="0"/>
+        <NOTE p="73" b="29.50000000000003" l="0.499999999999968" v="99" c="0"/>
+        <NOTE p="69" b="29.50000000000003" l="0.5" v="99" c="0"/>
+        <NOTE p="66" b="29.50000000000003" l="0.5" v="99" c="0"/>
+        <NOTE p="65" b="30.00000000000001" l="0.7499999999999858" v="99" c="0"/>
+        <NOTE p="68" b="30.00000000000001" l="0.75" v="99" c="0"/>
+        <NOTE p="72" b="30.00000000000001" l="0.75" v="99" c="0"/>
+        <NOTE p="66" b="30.75" l="0.75" v="99" c="0"/>
+        <NOTE p="69" b="30.75" l="0.75" v="99" c="0"/>
+        <NOTE p="73" b="30.75" l="0.75" v="99" c="0"/>
+        <NOTE p="74" b="31.5" l="0.499999999999968" v="100" c="0"/>
+        <NOTE p="70" b="31.5" l="0.5" v="100" c="0"/>
+        <NOTE p="67" b="31.5" l="0.5" v="100" c="0"/>
+        <NOTE p="75" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
+        <NOTE p="78" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
+        <NOTE p="82" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
+        <NOTE p="85" b="47.50000000000001" l="0.4999999999999858" v="97" c="0"/>
+        <NOTE p="74" b="48.0" l="0.75" v="96" c="0"/>
+        <NOTE p="77" b="48.0" l="0.75" v="96" c="0"/>
+        <NOTE p="81" b="48.0" l="0.75" v="96" c="0"/>
+        <NOTE p="84" b="48.0" l="0.75" v="96" c="0"/>
+        <NOTE p="74" b="48.75" l="0.7499999999999929" v="96" c="0"/>
+        <NOTE p="77" b="48.75" l="0.7499999999999929" v="96" c="0"/>
+        <NOTE p="81" b="48.75" l="0.7499999999999929" v="96" c="0"/>
+        <NOTE p="84" b="48.75" l="0.7499999999999929" v="96" c="0"/>
+        <NOTE p="75" b="49.49999999999999" l="0.5" v="96" c="0"/>
+        <NOTE p="78" b="49.49999999999999" l="0.5" v="96" c="0"/>
+        <NOTE p="82" b="49.49999999999999" l="0.5" v="96" c="0"/>
+        <NOTE p="85" b="49.49999999999999" l="0.5" v="96" c="0"/>
+        <NOTE p="74" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
+        <NOTE p="77" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
+        <NOTE p="81" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
+        <NOTE p="84" b="50.00000000000001" l="0.7499999999999858" v="96" c="0"/>
+        <NOTE p="74" b="50.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="77" b="50.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="81" b="50.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="84" b="50.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="75" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
+        <NOTE p="78" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
+        <NOTE p="82" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
+        <NOTE p="85" b="51.50000000000001" l="0.4999999999999858" v="96" c="0"/>
+        <NOTE p="74" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="77" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="81" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="84" b="52.00000000000001" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="74" b="52.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="77" b="52.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="81" b="52.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="84" b="52.75000000000001" l="0.75" v="96" c="0"/>
+        <NOTE p="73" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
+        <NOTE p="76" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
+        <NOTE p="80" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
+        <NOTE p="83" b="53.49999999999999" l="0.5000000000000071" v="96" c="0"/>
+        <NOTE p="74" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
+        <NOTE p="77" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
+        <NOTE p="81" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
+        <NOTE p="84" b="53.99999999999999" l="0.7500000000000071" v="96" c="0"/>
+        <NOTE p="74" b="54.74999999999999" l="0.75" v="96" c="0"/>
+        <NOTE p="77" b="54.74999999999999" l="0.75" v="96" c="0"/>
+        <NOTE p="81" b="54.74999999999999" l="0.75" v="96" c="0"/>
+        <NOTE p="84" b="54.74999999999999" l="0.75" v="96" c="0"/>
+        <NOTE p="75" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
+        <NOTE p="78" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
+        <NOTE p="82" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
+        <NOTE p="85" b="55.50000000000001" l="0.4999999999999787" v="96" c="0"/>
+        <NOTE p="74" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="77" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="81" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="84" b="55.99999999999999" l="0.7499999999999787" v="96" c="0"/>
+        <NOTE p="74" b="56.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="77" b="56.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="81" b="56.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="84" b="56.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="75" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="78" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="82" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="85" b="57.50000000000001" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="74" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
+        <NOTE p="77" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
+        <NOTE p="81" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
+        <NOTE p="84" b="58.00000000000001" l="0.7499999999999787" v="95" c="0"/>
+        <NOTE p="74" b="58.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="77" b="58.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="81" b="58.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="84" b="58.74999999999999" l="0.75" v="95" c="0"/>
+        <NOTE p="75" b="59.5" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="78" b="59.5" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="82" b="59.5" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="85" b="59.5" l="0.4999999999999787" v="95" c="0"/>
+        <NOTE p="74" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
+        <NOTE p="77" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
+        <NOTE p="81" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
+        <NOTE p="84" b="60.00000000000001" l="0.7499999999999858" v="95" c="0"/>
+        <NOTE p="74" b="60.75" l="0.75" v="95" c="0"/>
+        <NOTE p="77" b="60.75" l="0.75" v="95" c="0"/>
+        <NOTE p="81" b="60.75" l="0.75" v="95" c="0"/>
+        <NOTE p="84" b="60.75" l="0.75" v="95" c="0"/>
+        <NOTE p="75" b="61.5" l="0.4999999999999929" v="94" c="0"/>
+        <NOTE p="78" b="61.5" l="0.4999999999999929" v="94" c="0"/>
+        <NOTE p="82" b="61.5" l="0.4999999999999929" v="94" c="0"/>
+        <NOTE p="85" b="61.5" l="0.4999999999999929" v="94" c="0"/>
+        <NOTE p="74" b="61.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="77" b="61.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="81" b="61.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="84" b="61.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="74" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
+        <NOTE p="77" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
+        <NOTE p="81" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
+        <NOTE p="84" b="62.74999999999999" l="0.7500000000000142" v="94" c="0"/>
+        <NOTE p="73" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
+        <NOTE p="76" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
+        <NOTE p="80" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
+        <NOTE p="83" b="63.49999999999999" l="0.5000000000000071" v="94" c="0"/>
+        <NOTE p="74" b="63.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="77" b="63.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="81" b="63.99999999999999" l="0.75" v="94" c="0"/>
+        <NOTE p="84" b="63.99999999999999" l="0.75" v="94" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -1259,13 +1860,13 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.1442812532186508"/>
-        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
-        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
         <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
+        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
       </MODMATRIX>
     </PLUGIN>
-    <PLUGIN type="volume" id="1013" enabled="1" volume="0.6244388818740845">
+    <PLUGIN type="volume" id="1013" enabled="1" volume="0.7278871536254883">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1014" enabled="1">
@@ -1278,7 +1879,7 @@
   <TRACK id="1015" colour="ff00ffaa" height="36.375">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="40.58823529411764" length="26.47058578431373"
+    <MIDICLIP name="New MIDI Clip" start="40.58823529411764" length="28.6764705882353"
               offset="0.0" id="1138" sync="0" currentTake="0" speed="1.0" colour="ff00ffaa">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -1322,16 +1923,34 @@
         <NOTE p="63" b="43.99999999999999" l="1.999999999999986" v="99" c="0"/>
         <NOTE p="52" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
         <NOTE p="55" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="59" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="59" b="47.4999944444444" l="0.5" v="99" c="0"/>
         <NOTE p="55" b="47.49999999999999" l="0.5" v="99" c="0"/>
         <NOTE p="52" b="47.49999999999999" l="0.5" v="100" c="0"/>
-        <NOTE p="59" b="55.49999999999999" l="0.5" v="100" c="0"/>
         <NOTE p="55" b="55.49999999999999" l="0.5" v="99" c="0"/>
         <NOTE p="52" b="55.49999999999999" l="0.5" v="99" c="0"/>
         <NOTE p="59" b="48.0" l="4.0" v="100" c="0"/>
         <NOTE p="55" b="48.0" l="4.000005555555596" v="100" c="0"/>
         <NOTE p="52" b="47.9999944444444" l="4.000005555555596" v="100" c="0"/>
+        <NOTE p="66" b="47.4999944444444" l="0.5" v="99" c="0"/>
+        <NOTE p="62" b="47.49999999999999" l="0.5" v="99" c="0"/>
+        <NOTE p="59" b="47.49999999999999" l="0.5" v="100" c="0"/>
+        <NOTE p="66" b="48.0" l="4.0" v="100" c="0"/>
+        <NOTE p="62" b="48.0" l="4.000005555555596" v="100" c="0"/>
+        <NOTE p="66" b="55.49999999999999" l="0.5" v="100" c="0"/>
+        <NOTE p="62" b="55.49999999999999" l="0.5" v="99" c="0"/>
+        <NOTE p="59" b="55.49999999999999" l="0.5" v="99" c="0"/>
+        <NOTE p="59" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
+        <NOTE p="62" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
+        <NOTE p="66" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
+        <NOTE p="52" b="61.99999999999999" l="2.0" v="98" c="0"/>
+        <NOTE p="52" b="64.00000000000003" l="0.5" v="98" c="0"/>
+        <NOTE p="55" b="64.00000000000003" l="0.5" v="98" c="0"/>
+        <NOTE p="55" b="61.99999999999999" l="2.000000000000007" v="98" c="0"/>
+        <NOTE p="59" b="61.99999999999999" l="2.000000000000007" v="98" c="0"/>
+        <NOTE p="59" b="64.00000000000003" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="64.00000000000003" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="61.99999999999999" l="2.000000000000007" v="97" c="0"/>
+        <NOTE p="66" b="61.99999999999999" l="2.000000000000007" v="97" c="0"/>
+        <NOTE p="66" b="64.00000000000003" l="0.5" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -1362,7 +1981,7 @@
         <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.2479062676429749"/>
       </MODMATRIX>
     </PLUGIN>
-    <PLUGIN type="volume" id="1016" enabled="1">
+    <PLUGIN type="volume" id="1016" enabled="1" volume="0.6373699307441711">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1017" enabled="1">
