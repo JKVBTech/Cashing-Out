@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19c9f5ad516" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="27.38666666666667" scrubInterval="0.5352162964488719"
+      lastSignificantChange="19caf2579d5" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="28.24" scrubInterval="0.4470053931084458"
              start="0.0" loopPoint1="24.0" loopPoint2="24.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
@@ -28,13 +28,13 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="23.60052076801992" viewright="50.36133559046351"
+             browserSelection="result/all" viewleft="19.71083491565649" viewright="42.06110457107879"
              sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.302824854850769"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3671875" visibleProportion="0.25"
-                 leftTime="25.41428571428563" rightTime="28.55185185185176"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3125" visibleProportion="0.25"
+                 leftTime="0.0" rightTime="31.99999999999999"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -266,8 +266,8 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
-        <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
         <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
+        <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
       </MODMATRIX>
     </PLUGIN>
@@ -453,8 +453,8 @@
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
-    <STEPCLIP name="New Step Clip" start="12.0" length="2.0" offset="0.0" id="1056"
-              sequence="0" colour="ffaaff00" repeatSequence="1">
+    <STEPCLIP name="New Step Clip" start="12.0" length="2.000000000000002"
+              offset="0.0" id="1056" sequence="0" colour="ffaaff00" repeatSequence="1">
       <AUTOMATIONCURVES/>
       <CHANNELS>
         <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
@@ -495,8 +495,8 @@
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
-    <STEPCLIP name="New Step Clip" start="14.0" length="2.0" offset="0.0" id="1057"
-              sequence="0" colour="ffaaff00" repeatSequence="1">
+    <STEPCLIP name="New Step Clip" start="14.0" length="1.999999999999998"
+              offset="0.0" id="1057" sequence="0" colour="ffaaff00" repeatSequence="1">
       <AUTOMATIONCURVES/>
       <CHANNELS>
         <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>

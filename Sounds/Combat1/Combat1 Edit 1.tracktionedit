@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19c9fafd0ab" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="83.86666666666666" scrubInterval="1.707587727311208"
+      lastSignificantChange="19caedae88b" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="85.72" scrubInterval="1.707587727311208"
              start="0.0" loopPoint1="50.18382352941176" loopPoint2="51.28676470588235"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
@@ -22,7 +22,7 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1003" targetIndex="0"/>
     </INPUTDEVICE>
     <INPUTDEVICE deviceID="wavein_d7bd293b" name="Input 1"/>
     <INPUTDEVICE deviceID="wavein_d7bd293c" name="Input 2"/>
@@ -31,14 +31,14 @@
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
              browserSelection="result/all" viewleft="75.2965854907855" viewright="160.6759718563459"
-             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="-14.0"
+             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="0.0"
              scrollWhenPlaying="1" scrollSuspended="0" pluginAreaWidth="0.8748766779899597"
              midiEditorHeight="1.298305153846741" midiTypingWindowBounds="453 415 331 97"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2578125" visibleProportion="0.4453125"
-                 leftTime="74.64705882352945" rightTime="157.5882352941177" triplets="0"
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2578125" visibleProportion="0.25"
+                 leftTime="84.17647058823535" rightTime="85.94117647058829" triplets="0"
                  scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
@@ -421,7 +421,7 @@
             modDecay2="37.03227996826172" modSustain2="52.39999771118164"
             modRelease2="39.04283142089844" ampDecay="0.5536438822746277"
             ampSustain="0.0" reverbSize="0.7319999933242798" reverbWidth="0.5799999833106995"
-            windowX="613" windowY="149" voices="8" distortionOn="0" reverbOn="1"
+            windowX="1757" windowY="158" voices="8" distortionOn="0" reverbOn="1"
             delayOn="0" chorusOn="0" waveShape3="2" waveShape4="2">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
@@ -1861,8 +1861,8 @@
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.1442812532186508"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
-        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
         <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
       </MODMATRIX>
     </PLUGIN>
