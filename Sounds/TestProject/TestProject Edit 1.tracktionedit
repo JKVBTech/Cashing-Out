@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="65d3a/1204a6" creationTime="1770733421290"
-      lastSignificantChange="19c6bc06ca0" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="45.4" scrubInterval="0.9088173137766533"
-             start="0.0" loopPoint2="28.0" loopPoint1="28.0"/>
+      lastSignificantChange="19cb9201b20" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="46.52133333333333" scrubInterval="0.908817313776654"
+             start="6.5" loopPoint2="28.0" loopPoint1="28.0"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -22,21 +22,21 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1006" targetIndex="0"/>
     </INPUTDEVICE>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/plugins" viewleft="40.07456803993433"
-             viewright="85.51543372876699" sidePanelsShown="0" midiEditorShown="1"
+             browserSelection="result/plugins" viewleft="26.9424925682362"
+             viewright="72.38335825706891" sidePanelsShown="0" midiEditorShown="1"
              midiTypingWindowBounds="440 301 331 97" tracktop="-5.382000000000062"
              midiEditorHeight="1.311864495277405" pluginAreaWidth="0.8737800717353821"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
   <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3719131786490111" visibleProportion="0.2122296392917633"
-                 leftTime="43.87289719626159" rightTime="55.87289719626156"/>
+                 leftTime="38.29999999999998" rightTime="50.29999999999998"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -672,7 +672,7 @@
             base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="volume" id="1007" enabled="1">
+    <PLUGIN type="volume" id="1007" enabled="1" volume="0.5425422787666321">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1008" enabled="1">
@@ -691,13 +691,13 @@
       <QUANTISATION/>
       <GROOVE/>
       <SEQUENCE ver="1" channelNumber="1">
-        <NOTE p="67" b="0.0" l="4.0" v="99" c="0"/>
+        <NOTE p="67" b="0.0" l="3.0" v="99" c="0"/>
         <NOTE p="64" b="4.0" l="1.5" v="99" c="0"/>
-        <NOTE p="67" b="8.0" l="4.0" v="99" c="0"/>
+        <NOTE p="67" b="8.0" l="3.5" v="99" c="0"/>
         <NOTE p="65" b="12.0" l="4.0" v="99" c="0"/>
         <NOTE p="69" b="16.0" l="4.0" v="99" c="0"/>
         <NOTE p="71" b="20.0" l="4.0" v="99" c="0"/>
-        <NOTE p="62" b="5.5" l="2.5" v="99" c="0"/>
+        <NOTE p="62" b="5.5" l="2.0" v="99" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -853,8 +853,8 @@
             windowX="2651" windowY="233">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="lfoRate1" modItem="cc1" modDepth="0.04042187705636024"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.0"/>
+        <MODMATRIXITEM modParam="lfoRate1" modItem="cc1" modDepth="0.04042187705636024"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1">

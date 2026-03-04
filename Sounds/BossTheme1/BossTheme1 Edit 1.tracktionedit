@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19caf2579d5" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="28.24" scrubInterval="0.4470053931084458"
-             start="0.0" loopPoint1="24.0" loopPoint2="24.5"/>
+      lastSignificantChange="19cb91dcc71" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="44.848" scrubInterval="0.4470053931084458"
+             start="22.0" loopPoint1="26.5" loopPoint2="26.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -28,13 +28,14 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="19.71083491565649" viewright="42.06110457107879"
-             sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.302824854850769"/>
+             browserSelection="result/all" viewleft="39.82607760553655" viewright="62.17634726095885"
+             sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.302824854850769"
+             tracktop="-2.0"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3125" visibleProportion="0.25"
-                 leftTime="0.0" rightTime="31.99999999999999"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3828125" visibleProportion="0.25"
+                 leftTime="41.22429092261897" rightTime="48.47874032738084"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -266,9 +267,9 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
         <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
         <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
-        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1004" enabled="1">

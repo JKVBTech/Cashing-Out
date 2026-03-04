@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19caedae88b" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="85.72" scrubInterval="1.707587727311208"
+      lastSignificantChange="19cb91a5f10" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="2.752" scrubInterval="1.707587727311195"
              start="0.0" loopPoint1="50.18382352941176" loopPoint2="51.28676470588235"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
@@ -12,7 +12,7 @@
     <TIMESIG numerator="4" denominator="4" startBeat="0.0"/>
   </TEMPOSEQUENCE>
   <VIDEO/>
-  <CLICKTRACK level="0.6025595664978027"/>
+  <CLICKTRACK level="0.6025595664978027" active="0"/>
   <MASTERVOLUME>
     <PLUGIN type="volume" volume="0.547110915184021" id="1001" enabled="1">
       <MODIFIERASSIGNMENTS/>
@@ -30,15 +30,15 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="75.2965854907855" viewright="160.6759718563459"
+             browserSelection="result/all" viewleft="-1.544862238218814" viewright="83.83452412734096"
              sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" tracktop="0.0"
              scrollWhenPlaying="1" scrollSuspended="0" pluginAreaWidth="0.8748766779899597"
              midiEditorHeight="1.298305153846741" midiTypingWindowBounds="453 415 331 97"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2578125" visibleProportion="0.25"
-                 leftTime="84.17647058823535" rightTime="85.94117647058829" triplets="0"
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4296875" visibleProportion="0.25"
+                 leftTime="1.588235294117648" rightTime="3.352941176470591" triplets="0"
                  scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
@@ -425,10 +425,10 @@
             delayOn="0" chorusOn="0" waveShape3="2" waveShape4="2">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
+        <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo1" modDepth="-0.5400000214576721"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="0.2199999988079071"/>
         <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.699999988079071"/>
-        <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
         <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.492000013589859"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
       </MODMATRIX>
@@ -803,8 +803,8 @@
           <CHANNEL/>
           <CHANNEL pattern="0"/>
           <CHANNEL pattern="1000001"/>
-          <CHANNEL pattern="0"/>
           <CHANNEL pattern="100000000000000"/>
+          <CHANNEL pattern="0"/>
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
@@ -1859,11 +1859,11 @@
             spread3="0.0" waveShape3="5" voices3="1" lfoWaveShape2="6" filterResonance="0.5">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
+        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
+        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.1442812532186508"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
-        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
-        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1" volume="0.7278871536254883">
@@ -1921,15 +1921,7 @@
         <NOTE p="62" b="40.0" l="1.999999999999984" v="99" c="0"/>
         <NOTE p="60" b="43.99999999999999" l="1.999999999999986" v="99" c="0"/>
         <NOTE p="63" b="43.99999999999999" l="1.999999999999986" v="99" c="0"/>
-        <NOTE p="52" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="55" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="55" b="47.49999999999999" l="0.5" v="99" c="0"/>
-        <NOTE p="52" b="47.49999999999999" l="0.5" v="100" c="0"/>
-        <NOTE p="55" b="55.49999999999999" l="0.5" v="99" c="0"/>
-        <NOTE p="52" b="55.49999999999999" l="0.5" v="99" c="0"/>
         <NOTE p="59" b="48.0" l="4.0" v="100" c="0"/>
-        <NOTE p="55" b="48.0" l="4.000005555555596" v="100" c="0"/>
-        <NOTE p="52" b="47.9999944444444" l="4.000005555555596" v="100" c="0"/>
         <NOTE p="66" b="47.4999944444444" l="0.5" v="99" c="0"/>
         <NOTE p="62" b="47.49999999999999" l="0.5" v="99" c="0"/>
         <NOTE p="59" b="47.49999999999999" l="0.5" v="100" c="0"/>
@@ -1941,10 +1933,6 @@
         <NOTE p="59" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
         <NOTE p="62" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
         <NOTE p="66" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="52" b="61.99999999999999" l="2.0" v="98" c="0"/>
-        <NOTE p="52" b="64.00000000000003" l="0.5" v="98" c="0"/>
-        <NOTE p="55" b="64.00000000000003" l="0.5" v="98" c="0"/>
-        <NOTE p="55" b="61.99999999999999" l="2.000000000000007" v="98" c="0"/>
         <NOTE p="59" b="61.99999999999999" l="2.000000000000007" v="98" c="0"/>
         <NOTE p="59" b="64.00000000000003" l="0.5" v="97" c="0"/>
         <NOTE p="62" b="64.00000000000003" l="0.5" v="97" c="0"/>
