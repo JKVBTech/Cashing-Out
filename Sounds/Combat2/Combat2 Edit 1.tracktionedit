@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="24c49e/15dfd9c" creationTime="1772459649780"
-      lastSignificantChange="19cb9734738" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="9.151999999999999" scrubInterval="0.8102061237358542"
-             start="0.0" loopPoint1="81.25" loopPoint2="81.25"/>
+      lastSignificantChange="19cd7a93b13" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="7.990666666666667" scrubInterval="0.8102061237358541"
+             start="0.0" loopPoint1="0.0" loopPoint2="107.5" looping="1"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -36,7 +36,7 @@
   <SCENES/>
   <AUDIOEDITING/>
   <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4375" visibleProportion="0.25"
-                 leftTime="9.0" rightTime="11.5" scrollSuspended="0"/>
+                 leftTime="0.0" rightTime="18.75" scrollSuspended="0"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -172,13 +172,15 @@
         <NOTE p="57" b="22.0" l="0.375" v="75" c="0"/>
         <NOTE p="55" b="22.5" l="0.375" v="75" c="0"/>
         <NOTE p="55" b="23.0" l="0.75" v="75" c="0"/>
-        <NOTE p="55" b="24.0" l="5.5" v="75" c="0"/>
+        <NOTE p="55" b="24.0" l="2.0" v="75" c="0"/>
         <NOTE p="64" b="20.0" l="1.0" v="75" c="0"/>
         <NOTE p="62" b="21.5" l="0.25" v="75" c="0"/>
         <NOTE p="64" b="22.0" l="0.375" v="75" c="0"/>
         <NOTE p="62" b="22.5" l="0.375" v="75" c="0"/>
         <NOTE p="62" b="23.0" l="0.75" v="75" c="0"/>
-        <NOTE p="62" b="24.0" l="5.5" v="75" c="0"/>
+        <NOTE p="62" b="24.0" l="2.0" v="75" c="0"/>
+        <NOTE p="62" b="26.0" l="3.5" v="75" c="0"/>
+        <NOTE p="55" b="26.0" l="3.5" v="75" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -255,8 +257,8 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="tune1" modItem="env1" modDepth="0.06400000303983688"/>
-        <MODMATRIXITEM modParam="pan3" modItem="lfo2" modDepth="0.5"/>
         <MODMATRIXITEM modParam="pan4" modItem="lfo2" modDepth="0.6520000100135803"/>
+        <MODMATRIXITEM modParam="pan3" modItem="lfo2" modDepth="0.5"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="lfo1" modDepth="0.2919999957084656"/>
       </MODMATRIX>
     </PLUGIN>
@@ -425,8 +427,8 @@
             windowY="176">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="-0.05999999865889549"/>
+        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="env1" modDepth="0.4199999868869781"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="env1" modDepth="0.5240000486373901"/>
       </MODMATRIX>
