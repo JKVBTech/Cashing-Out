@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="512c5f/3630c32" creationTime="1772632870847"
-      lastSignificantChange="19cd7b0487c" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="62.671375" scrubInterval="0.7400000000000013"
-             start="41.76470588235294" loopPoint1="56.32352941176471" loopPoint2="57.05882352941177"
+      lastSignificantChange="19cdd453a60" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="61.41633333333333" scrubInterval="0.7400000000000017"
+             start="37.64705882352941" loopPoint1="56.32352941176471" loopPoint2="57.05882352941177"
              looping="0"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
@@ -15,7 +15,7 @@
   <VIDEO/>
   <CLICKTRACK level="0.6025595664978027" active="0"/>
   <MASTERVOLUME>
-    <PLUGIN type="volume" volume="0.6376281380653381" id="1001" enabled="1">
+    <PLUGIN type="volume" volume="0.5514212250709534" id="1001" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
   </MASTERVOLUME>
@@ -23,19 +23,19 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0"/>
     </INPUTDEVICE>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="39.224690662385" viewright="76.22469066238507"
+             browserSelection="result/all" viewleft="34.69399999999999" viewright="71.69400000000007"
              sidePanelsShown="0" midiEditorShown="1" tracktop="0.0" midiEditorHeight="1.311864495277405"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
   <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3203125" visibleProportion="0.25"
-                 leftTime="53.76470588235294" rightTime="67.88235294117646"/>
+                 leftTime="51.64705882352939" rightTime="68.11764705882348"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -116,7 +116,7 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="47.05882352941177" length="16.47058823529412"
+    <MIDICLIP name="New MIDI Clip" start="47.05882352941177" length="14.11764705882353"
               offset="0.0" id="1068" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -213,7 +213,7 @@
         <MODMATRIXITEM modParam="modSustain1" modItem="env1" modDepth="0.0"/>
       </MODMATRIX>
     </PLUGIN>
-    <PLUGIN type="volume" id="1004" enabled="1">
+    <PLUGIN type="volume" id="1004" enabled="1" volume="0.8485768437385559">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1005" enabled="1">
@@ -299,12 +299,12 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023224"/>
-        <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.4998281002044678"/>
-        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.4984844028949738"/>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="env2" modDepth="-0.2213906347751617"/>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="mpeTimbre" modDepth="0.1484375"/>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="midiNote" modDepth="0.3212500214576721"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.1122343689203262"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.4998281002044678"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.4984844028949738"/>
         <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.2373906522989273"/>
         <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
       </MODMATRIX>
@@ -375,16 +375,16 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023224"/>
-        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
         <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="0.1102656275033951"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.1122343689203262"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.4998281002044678"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.4984844028949738"/>
         <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.09225001931190491"/>
+        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
       </MODMATRIX>
     </PLUGIN>
-    <PLUGIN type="volume" id="1010" enabled="1">
+    <PLUGIN type="volume" id="1010" enabled="1" volume="0.6287492513656616">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1011" enabled="1">
@@ -572,7 +572,7 @@
             base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="volume" id="1013" enabled="1">
+    <PLUGIN type="volume" id="1013" enabled="1" volume="0.6244388818740845">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1014" enabled="1">
