@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="780b88/3103d3" creationTime="1773322667971"
-      lastSignificantChange="19ce270a490" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="39.0" scrubInterval="0.7400000000000017"
-             start="39.0" loopPoint1="28.5" loopPoint2="28.5"/>
+      lastSignificantChange="19cedbd2b76" modifiedBy="jacob">
+  <TRANSPORT endToEnd="1" position="67.77" scrubInterval="0.5536318881522413"
+             start="0.0" loopPoint1="28.5" loopPoint2="28.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -22,10 +22,36 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1015" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1009" targetIndex="0"/>
     </INPUTDEVICE>
+    <INPUTDEVICE deviceID="wavein_e250cb5e" name="Input channel 1"/>
+    <INPUTDEVICE deviceID="wavein_e250cb5f" name="Input channel 2"/>
+    <INPUTDEVICE deviceID="wavein_e250cb60" name="Input channel 3"/>
+    <INPUTDEVICE deviceID="wavein_e250cb61" name="Input channel 4"/>
+    <INPUTDEVICE deviceID="wavein_e250cb62" name="Input channel 5"/>
+    <INPUTDEVICE deviceID="wavein_e250cb63" name="Input channel 6"/>
+    <INPUTDEVICE deviceID="wavein_e250cb64" name="Input channel 7"/>
+    <INPUTDEVICE deviceID="wavein_e250cb65" name="Input channel 8"/>
   </INPUTDEVICES>
   <TRACKCOMPS/>
+  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
+             browserSelection="result/all" viewleft="49.33402255552463" viewright="77.01561696313669"
+             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" scrollWhenPlaying="1"
+             scrollSuspended="0" tracktop="-8.0" midiEditorHeight="1.306873679161072"/>
+  <EDITMIXGROUPS/>
+  <SCENES/>
+  <AUDIOEDITING/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.7485029995441437" visibleProportion="0.2514970004558563"
+                 leftTime="65.99473868412775" rightTime="68.52327273332806" scrollSuspended="0"/>
+  <ARRANGEVIEW>
+    <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
+                    outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
+                    bigMetersProportion="0.5" clipsProportion="0.5" clipsScroll="0.0"
+                    clipsHeight="24" inputsVisible="0" clipsVisible="1" modifiersVisible="1"
+                    pluginsVisible="1" levelsVisible="1"/>
+  </ARRANGEVIEW>
+  <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
   <MARKERTRACK id="1002" name="Marker"/>
@@ -35,10 +61,10 @@
   <MASTERTRACK name="Master" id="1030">
     <MODIFIERS/>
   </MASTERTRACK>
-  <TRACK id="1003" colour="ffff0000">
+  <TRACK id="1003" colour="ffff0000" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="0.0" length="22.0" offset="0.0" id="1033"
+    <MIDICLIP name="New MIDI Clip" start="0.0" length="18.0" offset="0.0" id="1033"
               sync="0" currentTake="0" speed="1.0" colour="ffff0000">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -50,7 +76,7 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="26.0" length="12.0" offset="0.0"
+    <MIDICLIP name="New MIDI Clip" start="22.0" length="12.0" offset="0.0"
               id="1101" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -97,21 +123,35 @@
     <PLUGIN type="volume" id="1004" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1005" enabled="1"/>
+    <PLUGIN type="level" id="1005" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1006" colour="ffffaa00">
+  <TRACK id="1006" colour="ffffaa00" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="10.0" length="12.0" offset="0.0"
-              id="1052" sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+    <MIDICLIP name="New MIDI Clip" start="8.0" length="10.0" offset="0.0" id="1052"
+              sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
       <SEQUENCE ver="1" channelNumber="1">
         <NOTE p="55" b="0.0" l="24.0" v="92" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="29.0" length="5.0" offset="0.0" id="1112"
+              sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="54" b="0.0" l="10.0" v="83" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -148,15 +188,17 @@
     <PLUGIN type="volume" id="1007" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1008" enabled="1"/>
+    <PLUGIN type="level" id="1008" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1009" colour="ffaaff00">
+  <TRACK id="1009" colour="ffaaff00" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <MIDICLIP name="New MIDI Clip" start="22.0" length="19.0" offset="0.0"
+    <MIDICLIP name="New MIDI Clip" start="18.0" length="11.5" offset="0.0"
               id="1095" sync="0" currentTake="0" speed="1.0" colour="ffaaff00">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -178,8 +220,51 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="34.0" length="14.0" offset="0.0"
+              id="1111" sync="0" currentTake="0" speed="1.0" colour="ffaaff00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="61" b="3.0" l="1.0" v="83" c="0"/>
+        <NOTE p="76" b="4.0" l="1.5" v="83" c="0"/>
+        <NOTE p="75" b="5.5" l="0.5" v="83" c="0"/>
+        <NOTE p="76" b="6.0" l="2.0" v="83" c="0"/>
+        <NOTE p="78" b="9.0" l="1.0" v="83" c="0"/>
+        <NOTE p="76" b="10.0" l="1.0" v="83" c="0"/>
+        <NOTE p="74" b="11.0" l="1.0" v="83" c="0"/>
+        <NOTE p="76" b="12.0" l="1.0" v="83" c="0"/>
+        <NOTE p="74" b="13.0" l="0.5" v="83" c="0"/>
+        <NOTE p="73" b="13.5" l="0.5" v="83" c="0"/>
+        <NOTE p="71" b="14.0" l="1.0" v="83" c="0"/>
+        <NOTE p="64" b="16.0" l="1.0" v="83" c="0"/>
+        <NOTE p="66" b="17.0" l="1.0" v="83" c="0"/>
+        <NOTE p="67" b="18.0" l="1.0" v="83" c="0"/>
+        <NOTE p="69" b="20.0" l="8.0" v="83" c="0"/>
+        <NOTE p="69" b="19.0" l="1.0" v="83" c="0"/>
+        <NOTE p="51" b="35.6875" l="1.0" v="78" c="0"/>
+        <NOTE p="66" b="35.4375" l="0.001041666666666667" v="89" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="48.0" length="2.0" offset="0.0" id="1113"
+              sync="0" currentTake="0" speed="1.0" colour="ffaaff00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="69" b="0.0" l="9.0" v="101" c="0"/>
+        <NOTE p="73" b="0.0" l="9.0" v="101" c="0"/>
+        <NOTE p="77" b="0.0" l="9.0" v="101" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
     <PLUGIN type="4osc" windowLocked="1" id="1093" enabled="1" filterType="4"
-            presetDirty="0" ampAttack="0.001002588775008917" ampDecay="0.3931695818901062"
+            presetDirty="1" ampAttack="0.001002588775008917" ampDecay="0.3931695818901062"
             ampSustain="82.40000152587891" ampRelease="0.8006623983383179"
             ampVelocity="46.39999771118164" filterAttack="0.004260495770722628"
             filterDecay="0.0001966080308193341" filterSustain="0.0" filterRelease="18.48666763305664"
@@ -206,8 +291,8 @@
             tune4="24.0" level4="-8.270652770996094" pan4="0.01600003242492676"
             waveShape4="0" lfoSync1="0" spread2="0.0" modRelease1="0.1000000014901161"
             modAttack2="0.1000000014901161" modDecay2="0.1000000014901161"
-            modSustain2="80.0" modRelease2="0.1000000014901161" windowX="1675"
-            windowY="207">
+            modSustain2="80.0" modRelease2="0.1000000014901161" windowX="852"
+            windowY="813">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
@@ -217,15 +302,17 @@
     <PLUGIN type="volume" id="1010" enabled="1" volume="0.5382319688796997">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1011" enabled="1"/>
+    <PLUGIN type="level" id="1011" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1012" colour="ff00ff00">
+  <TRACK id="1012" colour="ff00ff00" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <STEPCLIP name="New Step Clip" start="38.0" length="2.0" offset="0.0" id="1108"
+    <STEPCLIP name="New Step Clip" start="34.0" length="2.0" offset="0.0" id="1108"
               sequence="0" colour="ff00ff00" repeatSequence="1">
       <AUTOMATIONCURVES/>
       <CHANNELS>
@@ -266,15 +353,17 @@
     <PLUGIN type="volume" id="1013" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1014" enabled="1"/>
+    <PLUGIN type="level" id="1014" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1015" colour="ff00ffaa">
+  <TRACK id="1015" colour="ff00ffaa" height="50.0">
     <MODIFIERS/>
     <CLIPSLOTS/>
-    <STEPCLIP name="New Step Clip" start="38.0" length="2.0" offset="0.0" id="1109"
+    <STEPCLIP name="New Step Clip" start="34.0" length="2.0" offset="0.0" id="1109"
               sequence="0" colour="ff00ffaa" repeatSequence="1">
       <AUTOMATIONCURVES/>
       <CHANNELS>
@@ -325,60 +414,50 @@
     <PLUGIN type="volume" id="1016" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1017" enabled="1"/>
+    <PLUGIN type="level" id="1017" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1018" colour="ff00aaff">
+  <TRACK id="1018" colour="ff00aaff" height="50.0">
     <MODIFIERS/>
-    <OUTPUTDEVICES>
-      <DEVICE name="(default audio output)"/>
-    </OUTPUTDEVICES>
     <CLIPSLOTS/>
     <PLUGIN type="volume" id="1019" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1020" enabled="1"/>
-  </TRACK>
-  <TRACK id="1021" colour="ff0000ff">
-    <MODIFIERS/>
+    <PLUGIN type="level" id="1020" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1021" colour="ff0000ff" height="50.0">
+    <MODIFIERS/>
     <CLIPSLOTS/>
     <PLUGIN type="volume" id="1022" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1023" enabled="1"/>
-  </TRACK>
-  <TRACK id="1024" colour="ffaa00ff">
-    <MODIFIERS/>
+    <PLUGIN type="level" id="1023" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
     <OUTPUTDEVICES>
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1024" colour="ffaa00ff" height="50.0">
+    <MODIFIERS/>
     <CLIPSLOTS/>
     <PLUGIN type="volume" id="1025" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
-    <PLUGIN type="level" id="1026" enabled="1"/>
+    <PLUGIN type="level" id="1026" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
   </TRACK>
-  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
-             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="32.63051869722565" viewright="69.63051869722574"
-             sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" scrollWhenPlaying="1"
-             scrollSuspended="0"/>
-  <EDITMIXGROUPS/>
-  <SCENES/>
-  <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3450920245398773" visibleProportion="0.25"
-                 leftTime="38.9" rightTime="40.9" scrollSuspended="0"/>
-  <ARRANGEVIEW>
-    <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
-                    outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
-                    bigMetersProportion="0.5" clipsProportion="0.5" clipsScroll="0.0"
-                    clipsHeight="24" inputsVisible="0" clipsVisible="1" modifiersVisible="1"
-                    pluginsVisible="1" levelsVisible="1"/>
-  </ARRANGEVIEW>
-  <AUTOMAPXML/>
 </EDIT>
