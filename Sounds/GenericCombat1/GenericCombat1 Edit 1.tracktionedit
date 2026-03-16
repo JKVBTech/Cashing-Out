@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="780b88/3103d3" creationTime="1773322667971"
-      lastSignificantChange="19cedbd2b76" modifiedBy="jacob">
-  <TRANSPORT endToEnd="1" position="67.77" scrubInterval="0.5536318881522413"
-             start="0.0" loopPoint1="28.5" loopPoint2="28.5"/>
+      lastSignificantChange="19cf6dacbf5" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="30.032" scrubInterval="0.5536318881522425"
+             start="18.0" loopPoint1="28.5" loopPoint2="28.5"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -36,14 +36,14 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="49.33402255552463" viewright="77.01561696313669"
+             browserSelection="result/all" viewleft="7.149125945216511" viewright="34.83072035282864"
              sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" scrollWhenPlaying="1"
              scrollSuspended="0" tracktop="-8.0" midiEditorHeight="1.306873679161072"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.7485029995441437" visibleProportion="0.2514970004558563"
-                 leftTime="65.99473868412775" rightTime="68.52327273332806" scrollSuspended="0"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4609375" visibleProportion="0.2514970004558563"
+                 leftTime="26.74999999999999" rightTime="31.74999999999999" scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
                     outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
@@ -114,8 +114,8 @@
             windowX="1304" windowY="821">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="1.0"/>
         <MODMATRIXITEM modParam="pan1" modItem="lfo2" modDepth="1.0"/>
+        <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="1.0"/>
         <MODMATRIXITEM modParam="level2" modItem="lfo1" modDepth="0.7879999876022339"/>
         <MODMATRIXITEM modParam="pan2" modItem="lfo2" modDepth="1.0"/>
       </MODMATRIX>
@@ -151,7 +151,7 @@
       <QUANTISATION/>
       <GROOVE/>
       <SEQUENCE ver="1" channelNumber="1">
-        <NOTE p="54" b="0.0" l="10.0" v="83" c="0"/>
+        <NOTE p="45" b="0.0" l="10.0" v="83" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -291,8 +291,8 @@
             tune4="24.0" level4="-8.270652770996094" pan4="0.01600003242492676"
             waveShape4="0" lfoSync1="0" spread2="0.0" modRelease1="0.1000000014901161"
             modAttack2="0.1000000014901161" modDecay2="0.1000000014901161"
-            modSustain2="80.0" modRelease2="0.1000000014901161" windowX="852"
-            windowY="813">
+            modSustain2="80.0" modRelease2="0.1000000014901161" windowX="1739"
+            windowY="314">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
