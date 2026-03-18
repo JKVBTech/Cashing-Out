@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19ce2403ad4" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="41.8825" scrubInterval="0.32221070989193"
-             start="41.5625" loopPoint1="28.15625" loopPoint2="28.25"/>
+      lastSignificantChange="19d01522c5c" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="31.89583333333333" scrubInterval="0.3222107098919307"
+             start="26.5625" loopPoint1="28.15625" loopPoint2="28.25"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -29,14 +29,14 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="28.83930950250704" viewright="44.94984499710355"
+             browserSelection="result/all" viewleft="22.46749666385865" viewright="38.57803215845519"
              sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.262146830558777"
              tracktop="0.0" automationLocked="0"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.234375" visibleProportion="0.243883803486824"
-                 leftTime="37.12125000000004" rightTime="42.29625000000005"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4375" visibleProportion="0.243883803486824"
+                 leftTime="29.31665363814073" rightTime="32.55683438889453"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -200,7 +200,7 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="22.25" length="6.75" offset="0.0"
+    <MIDICLIP name="New MIDI Clip" start="22.25" length="8.25" offset="0.0"
               id="1079" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
@@ -216,6 +216,10 @@
         <NOTE p="61" b="9.0" l="0.25" v="97" c="0"/>
         <NOTE p="61" b="10.0" l="0.25" v="97" c="0"/>
         <NOTE p="66" b="11.0" l="1.5" v="97" c="0"/>
+        <NOTE p="69" b="19.5" l="1.0" v="83" c="0"/>
+        <NOTE p="68" b="22.0" l="4.0" v="82" c="0"/>
+        <NOTE p="68" b="20.5" l="0.125" v="83" c="0"/>
+        <NOTE p="69" b="20.625" l="1.375" v="83" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -255,10 +259,10 @@
             windowX="1051" windowY="233">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
-        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
         <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
+        <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
         <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1004" enabled="1">
