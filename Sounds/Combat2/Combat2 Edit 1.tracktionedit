@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="24c49e/15dfd9c" creationTime="1772459649780"
-      lastSignificantChange="19cd7a93b13" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="7.990666666666667" scrubInterval="0.8102061237358541"
-             start="0.0" loopPoint1="0.0" loopPoint2="107.5" looping="1"/>
+      lastSignificantChange="19d067a76e1" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="102.3071666666667" scrubInterval="0.810206123735854"
+             start="80.3125" loopPoint1="73.4375" loopPoint2="73.4375" looping="0"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -22,21 +22,21 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1006" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1003" targetIndex="0"/>
     </INPUTDEVICE>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/plugins" viewleft="-0.7329970962628354"
-             viewright="39.77730909052987" sidePanelsShown="0" midiEditorShown="1"
+             browserSelection="result/plugins" viewleft="71.41198469066036"
+             viewright="111.9222908774531" sidePanelsShown="0" midiEditorShown="1"
              tracktop="0.0" midiEditorHeight="1.329943537712097" scrollWhenPlaying="1"
              scrollSuspended="0" pluginsVisible="1"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4375" visibleProportion="0.25"
-                 leftTime="0.0" rightTime="18.75" scrollSuspended="0"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3081714527027027" visibleProportion="0.2037880569696426"
+                 leftTime="100.0962831106033" rightTime="117.3871101782725" scrollSuspended="0"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -257,8 +257,8 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="tune1" modItem="env1" modDepth="0.06400000303983688"/>
-        <MODMATRIXITEM modParam="pan4" modItem="lfo2" modDepth="0.6520000100135803"/>
         <MODMATRIXITEM modParam="pan3" modItem="lfo2" modDepth="0.5"/>
+        <MODMATRIXITEM modParam="pan4" modItem="lfo2" modDepth="0.6520000100135803"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="lfo1" modDepth="0.2919999957084656"/>
       </MODMATRIX>
     </PLUGIN>
@@ -428,8 +428,8 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="-0.05999999865889549"/>
-        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="env1" modDepth="0.4199999868869781"/>
+        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="env1" modDepth="0.5240000486373901"/>
       </MODMATRIX>
     </PLUGIN>
@@ -1596,7 +1596,7 @@
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1012" colour="ff00ff00" height="36.125">
+  <TRACK id="1012" colour="ff00ff00" height="41.125">
     <MODIFIERS/>
     <CLIPSLOTS/>
     <PLUGIN type="volume" id="1013" enabled="1">
