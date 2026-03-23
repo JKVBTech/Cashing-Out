@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19cf6ddfdcf" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="69.62697916666667" scrubInterval="1.707587727311195"
-             start="14.11764705882353" loopPoint1="20.51470588235294" loopPoint2="21.17647058823529"/>
+      lastSignificantChange="19d1aa83aba" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="70.27" scrubInterval="1.707587727311195"
+             start="0.0" loopPoint1="0.0" loopPoint2="84.70588235294117" looping="1"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -37,9 +37,8 @@
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3530556866446437" visibleProportion="0.3288461565971375"
-                 leftTime="68.41293826982377" rightTime="71.45351330403815" triplets="0"
-                 scrollSuspended="0"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.0" visibleProportion="0.71875"
+                 leftTime="0.0" rightTime="81.48218452638149" triplets="0" scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
                     outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
@@ -430,9 +429,9 @@
         <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo1" modDepth="-0.5400000214576721"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="0.2199999988079071"/>
         <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.699999988079071"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
         <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
         <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.492000013589859"/>
-        <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1004" enabled="1" volume="0.6244388818740845">
@@ -1883,7 +1882,8 @@
     <MODIFIERS/>
     <CLIPSLOTS/>
     <MIDICLIP name="New MIDI Clip" start="40.58823529411764" length="28.6764705882353"
-              offset="0.0" id="1138" sync="0" currentTake="0" speed="1.0" colour="ff00ffaa">
+              offset="0.0" id="1138" sync="0" currentTake="0" speed="1.0" colour="ff00ffaa"
+              volDb="0.0">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE current=""/>
@@ -1925,22 +1925,22 @@
         <NOTE p="60" b="43.99999999999999" l="1.999999999999986" v="99" c="0"/>
         <NOTE p="63" b="43.99999999999999" l="1.999999999999986" v="99" c="0"/>
         <NOTE p="59" b="48.0" l="4.0" v="100" c="0"/>
-        <NOTE p="66" b="47.4999944444444" l="0.5" v="99" c="0"/>
-        <NOTE p="62" b="47.49999999999999" l="0.5" v="99" c="0"/>
-        <NOTE p="59" b="47.49999999999999" l="0.5" v="100" c="0"/>
+        <NOTE p="66" b="47.4999944444444" l="0.468755555555596" v="99" c="0"/>
+        <NOTE p="62" b="47.49999999999999" l="0.46875" v="99" c="0"/>
+        <NOTE p="59" b="47.49999999999999" l="0.46875" v="100" c="0"/>
         <NOTE p="66" b="48.0" l="4.0" v="100" c="0"/>
         <NOTE p="62" b="48.0" l="4.000005555555596" v="100" c="0"/>
-        <NOTE p="66" b="55.49999999999999" l="0.5" v="100" c="0"/>
-        <NOTE p="62" b="55.49999999999999" l="0.5" v="99" c="0"/>
-        <NOTE p="59" b="55.49999999999999" l="0.5" v="99" c="0"/>
+        <NOTE p="66" b="55.49999999999999" l="0.4687500000000071" v="100" c="0"/>
+        <NOTE p="62" b="55.49999999999999" l="0.4687500000000071" v="99" c="0"/>
+        <NOTE p="59" b="55.49999999999999" l="0.4687500000000071" v="99" c="0"/>
         <NOTE p="59" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
         <NOTE p="62" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
         <NOTE p="66" b="55.99999999999999" l="3.999994444444447" v="100" c="0"/>
-        <NOTE p="59" b="61.99999999999999" l="2.000000000000007" v="98" c="0"/>
+        <NOTE p="59" b="61.99999999999999" l="1.96875" v="98" c="0"/>
         <NOTE p="59" b="64.00000000000003" l="0.5" v="97" c="0"/>
         <NOTE p="62" b="64.00000000000003" l="0.5" v="97" c="0"/>
-        <NOTE p="62" b="61.99999999999999" l="2.000000000000007" v="97" c="0"/>
-        <NOTE p="66" b="61.99999999999999" l="2.000000000000007" v="97" c="0"/>
+        <NOTE p="62" b="61.99999999999999" l="1.96875" v="97" c="0"/>
+        <NOTE p="66" b="61.99999999999999" l="1.96875" v="97" c="0"/>
         <NOTE p="66" b="64.00000000000003" l="0.5" v="97" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>

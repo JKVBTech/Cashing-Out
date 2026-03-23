@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19d01522c5c" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="31.89583333333333" scrubInterval="0.3222107098919307"
-             start="26.5625" loopPoint1="28.15625" loopPoint2="28.25"/>
+      lastSignificantChange="19d1aa14a02" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="21.55" scrubInterval="0.3222107098919327"
+             start="8.0" loopPoint1="42.78125" loopPoint2="43.4375"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -23,20 +23,20 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0" armed="0"/>
     </INPUTDEVICE>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="22.46749666385865" viewright="38.57803215845519"
-             sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.262146830558777"
+             browserSelection="result/all" viewleft="14.20797647780411" viewright="30.31851197240074"
+             sidePanelsShown="0" midiEditorShown="1" midiEditorHeight="1.293785214424133"
              tracktop="0.0" automationLocked="0"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4375" visibleProportion="0.243883803486824"
-                 leftTime="29.31665363814073" rightTime="32.55683438889453"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2578125" visibleProportion="0.2410502284765244"
+                 leftTime="16.875" rightTime="26.25"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -225,6 +225,142 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="30.5" length="3.0" offset="0.0" id="1089"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="67" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="67" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="67" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="66" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="65" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="65" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="64" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="33.5" length="3.0" offset="0.0" id="1099"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000" volDb="-5.753643035888672">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="62" b="0.0" l="3.0" v="77" c="0"/>
+        <NOTE p="62" b="4.0" l="3.0" v="77" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="36.5" length="3.0" offset="0.0" id="1100"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="71" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="62" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="62" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="61" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="62" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="60" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="60" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="64" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="63" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="69" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="70" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="78" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="39.5" length="9.0" offset="0.0" id="1103"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="69" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.25" v="97" c="0"/>
+        <NOTE p="69" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="68" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="72" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="75" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="76" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="76" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="75" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="76" b="4.0" l="0.25" v="97" c="0"/>
+        <NOTE p="74" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="75" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="78" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="79" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="80" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="82" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="85" b="9.0" l="15.0" v="97" c="0"/>
+        <NOTE p="90" b="16.0" l="8.0" v="97" c="0"/>
+        <NOTE p="78" b="9.0" l="15.0" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
     <PLUGIN type="4osc" windowLocked="1" id="1031" enabled="1" filterType="1"
             presetDirty="1" ampAttack="0.009431731887161732" ampDecay="10.49864292144775"
             ampSustain="79.59999847412109" ampRelease="0.05918430536985397"
@@ -259,8 +395,8 @@
             windowX="1051" windowY="233">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.1840000003576279"/>
+        <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="0.136000007390976"/>
         <MODMATRIXITEM modParam="tune4" modItem="env1" modDepth="0.3919999897480011"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.5839999914169312"/>
       </MODMATRIX>
@@ -321,6 +457,50 @@
         <NOTE p="69" b="21.5" l="1.0" v="97" c="0"/>
         <NOTE p="67" b="22.5" l="0.125" v="97" c="0"/>
         <NOTE p="69" b="22.625" l="1.375" v="96" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="30.5" length="3.0" offset="0.0" id="1090"
+              sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="67" b="0.0" l="2.5" v="77" c="0"/>
+        <NOTE p="66" b="2.5" l="0.125" v="77" c="0"/>
+        <NOTE p="67" b="2.625" l="1.375" v="77" c="0"/>
+        <NOTE p="67" b="4.0" l="0.5" v="77" c="0"/>
+        <NOTE p="65" b="4.5" l="0.25" v="77" c="0"/>
+        <NOTE p="67" b="4.75" l="1.25" v="76" c="0"/>
+        <NOTE p="65" b="6.0" l="0.25" v="76" c="0"/>
+        <NOTE p="64" b="6.25" l="0.25" v="76" c="0"/>
+        <NOTE p="69" b="6.5" l="0.5" v="76" c="0"/>
+        <NOTE p="67" b="7.0" l="0.125" v="76" c="0"/>
+        <NOTE p="71" b="7.125" l="0.875" v="77" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="33.5" length="3.0" offset="0.0" id="1097"
+              sync="0" currentTake="0" speed="1.0" colour="ffffaa00">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="74" b="0.0" l="2.5" v="77" c="0"/>
+        <NOTE p="73" b="2.5" l="0.125" v="77" c="0"/>
+        <NOTE p="72" b="2.625" l="1.375" v="77" c="0"/>
+        <NOTE p="74" b="4.0" l="0.5" v="77" c="0"/>
+        <NOTE p="72" b="4.5" l="0.25" v="77" c="0"/>
+        <NOTE p="71" b="4.75" l="1.25" v="77" c="0"/>
+        <NOTE p="72" b="6.0" l="0.25" v="77" c="0"/>
+        <NOTE p="71" b="6.25" l="0.25" v="77" c="0"/>
+        <NOTE p="76" b="6.5" l="0.5" v="77" c="0"/>
+        <NOTE p="77" b="7.0" l="0.125" v="77" c="0"/>
+        <NOTE p="79" b="7.125" l="0.875" v="77" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
@@ -911,6 +1091,174 @@
         </PATTERN>
       </PATTERNS>
     </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="30.5" length="1.5" offset="0.0" id="1091"
+              sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="75" velocity="96" name="Claves"/>
+        <CHANNEL channel="1" note="70" velocity="96" name="Maracas"/>
+        <CHANNEL channel="1" note="63" velocity="96" name="Conga Hi"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="62" velocity="96" name="Conga Mid"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="56" velocity="96" name="Cowbell"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="64" velocity="96" name="Conga Low"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="101010001010100"/>
+          <CHANNEL pattern="100000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="32.0" length="1.5" offset="0.0" id="1092"
+              sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="75" velocity="96" name="Claves"/>
+        <CHANNEL channel="1" note="70" velocity="96" name="Maracas"/>
+        <CHANNEL channel="1" note="63" velocity="96" name="Conga Hi"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="62" velocity="96" name="Conga Mid"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="56" velocity="96" name="Cowbell"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="64" velocity="96" name="Conga Low"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="1010100"/>
+          <CHANNEL pattern="1000100000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="33.5" length="1.5" offset="0.0" id="1095"
+              sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="75" velocity="96" name="Claves"/>
+        <CHANNEL channel="1" note="70" velocity="96" name="Maracas"/>
+        <CHANNEL channel="1" note="63" velocity="96" name="Conga Hi"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="62" velocity="96" name="Conga Mid"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="56" velocity="96" name="Cowbell"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="64" velocity="96" name="Conga Low"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="101010001010100"/>
+          <CHANNEL pattern="100000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
+    <STEPCLIP name="New Step Clip" start="35.0" length="1.5" offset="0.0" id="1096"
+              sequence="0" colour="ffaaff00" repeatSequence="1">
+      <AUTOMATIONCURVES/>
+      <CHANNELS>
+        <CHANNEL channel="1" note="49" velocity="96" name="Crash 1"/>
+        <CHANNEL channel="1" note="75" velocity="96" name="Claves"/>
+        <CHANNEL channel="1" note="70" velocity="96" name="Maracas"/>
+        <CHANNEL channel="1" note="63" velocity="96" name="Conga Hi"/>
+        <CHANNEL channel="1" note="50" velocity="96" name="High Tom"/>
+        <CHANNEL channel="1" note="48" velocity="96" name="Mid Tom"/>
+        <CHANNEL channel="1" note="45" velocity="96" name="Low Tom"/>
+        <CHANNEL channel="1" note="62" velocity="96" name="Conga Mid"/>
+        <CHANNEL channel="1" note="38" velocity="96" name="Snare 1"/>
+        <CHANNEL channel="1" note="56" velocity="96" name="Cowbell"/>
+        <CHANNEL channel="1" note="46" velocity="96" name="Open Hi-Hat"/>
+        <CHANNEL channel="1" note="64" velocity="96" name="Conga Low"/>
+        <CHANNEL channel="1" note="37" velocity="96" name="Side Stick"/>
+        <CHANNEL channel="1" note="36" velocity="96" name="Kick"/>
+        <CHANNEL channel="1" note="42" velocity="96" name="Closed Hi-Hat"/>
+        <CHANNEL channel="1" note="39" velocity="96" name="Clap"/>
+      </CHANNELS>
+      <PATTERNS>
+        <PATTERN numNotes="16" noteLength="0.25">
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL/>
+          <CHANNEL pattern="1"/>
+          <CHANNEL pattern="10001010100"/>
+          <CHANNEL pattern="1000100000000"/>
+        </PATTERN>
+      </PATTERNS>
+    </STEPCLIP>
     <PLUGIN type="vst" uniqueId="0" uid="0" filename="Micro Drum Sampler"
             name="Micro Drum Sampler" manufacturer="Tracktion" windowLocked="1"
             id="1052" enabled="1" showFaceplate="1" windowX="470" windowY="185"
@@ -932,7 +1280,7 @@
     <MODIFIERS/>
     <CLIPSLOTS/>
     <MIDICLIP name="New MIDI Clip" start="20.0" length="1.5" offset="0.0" id="1060"
-              sync="0" currentTake="0" speed="1.0" colour="ff00ff00">
+              sync="0" currentTake="0" speed="1.0" colour="ff00ff00" volDb="0.0">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
@@ -1060,6 +1408,159 @@
         <NOTE p="88" b="21.5" l="1.0" v="95" c="0"/>
         <NOTE p="86" b="22.5" l="0.125" v="95" c="0"/>
         <NOTE p="88" b="22.625" l="1.375" v="95" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="30.5" length="3.0" offset="0.0" id="1098"
+              sync="0" currentTake="0" speed="1.0" colour="ff00ff00" volDb="-5.753643035888672">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="79" b="0.0" l="4.0" v="77" c="0"/>
+        <NOTE p="79" b="4.0" l="4.0" v="77" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="33.5" length="3.0" offset="0.0" id="1093"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="74" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="74" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="74" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="74" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="74" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="74" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="73" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="72" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="74" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="74" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="72" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="72" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="77" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="79" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="36.5" length="3.0" offset="0.0" id="1102"
+              sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="71" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="62" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="62" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="62" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="61" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="62" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="60" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="62" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="60" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="59" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="64" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="63" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="69" b="0.0" l="0.125" v="99" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.25" l="0.125" v="97" c="0"/>
+        <NOTE p="67" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="66" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="70" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="78" b="8.0" l="0.875" v="87" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="New MIDI Clip" start="39.5" length="9.375" offset="0.0"
+              id="1104" sync="0" currentTake="0" speed="1.0" colour="ffff0000">
+      <AUTOMATIONCURVES/>
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="69" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="69" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="68" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="69" b="4.0" l="0.25" v="97" c="0"/>
+        <NOTE p="69" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="68" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="69" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="71" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="72" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="73" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="75" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="78" b="9.0" l="7.0" v="97" c="0"/>
+        <NOTE p="76" b="0.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.25" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="0.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="1.0" l="0.5" v="97" c="0"/>
+        <NOTE p="76" b="1.75" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.0" l="0.5" v="97" c="0"/>
+        <NOTE p="75" b="2.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="2.625" l="1.125" v="97" c="0"/>
+        <NOTE p="76" b="4.0" l="0.25" v="97" c="0"/>
+        <NOTE p="74" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="4.75" l="1.125" v="97" c="0"/>
+        <NOTE p="67" b="4.5" l="0.125" v="97" c="0"/>
+        <NOTE p="75" b="6.0" l="0.125" v="97" c="0"/>
+        <NOTE p="76" b="6.25" l="0.125" v="97" c="0"/>
+        <NOTE p="78" b="6.5" l="0.5" v="97" c="0"/>
+        <NOTE p="79" b="7.0" l="0.125" v="97" c="0"/>
+        <NOTE p="80" b="7.125" l="0.875" v="97" c="0"/>
+        <NOTE p="82" b="8.0" l="1.0" v="96" c="0"/>
+        <NOTE p="85" b="9.0" l="7.0" v="97" c="0"/>
+        <NOTE p="85" b="16.0" l="8.0" v="97" c="0"/>
+        <NOTE p="78" b="16.0" l="8.0" v="97" c="0"/>
+        <NOTE p="83" b="16.5" l="0.375" v="97" c="0"/>
+        <NOTE p="81" b="17.0" l="0.375" v="97" c="0"/>
+        <NOTE p="79" b="17.5" l="0.375" v="97" c="0"/>
+        <NOTE p="86" b="18.0" l="0.375" v="97" c="0"/>
+        <NOTE p="83" b="18.5" l="0.375" v="97" c="0"/>
+        <NOTE p="81" b="19.0" l="0.375" v="97" c="0"/>
+        <NOTE p="79" b="19.5" l="0.375" v="97" c="0"/>
+        <NOTE p="76" b="20.0" l="0.375" v="97" c="0"/>
+        <NOTE p="79" b="20.5" l="0.375" v="97" c="0"/>
+        <NOTE p="81" b="21.0" l="0.375" v="97" c="0"/>
+        <NOTE p="83" b="21.5" l="0.375" v="97" c="0"/>
+        <NOTE p="86" b="22.0" l="0.375" v="97" c="0"/>
+        <NOTE p="83" b="22.5" l="0.375" v="98" c="0"/>
+        <NOTE p="86" b="23.0" l="0.375" v="98" c="0"/>
+        <NOTE p="88" b="23.5" l="0.375" v="98" c="0"/>
+        <NOTE p="89" b="24.0" l="0.375" v="98" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
