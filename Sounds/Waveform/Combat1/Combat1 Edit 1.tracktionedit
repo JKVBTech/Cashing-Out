@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="82b247/23034fa" creationTime="1771424051164"
-      lastSignificantChange="19d25144f66" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="16.61364583333333" scrubInterval="1.707587727311195"
-             start="14.11764705882353" loopPoint1="0.0" loopPoint2="84.70588235294117"
-             looping="1"/>
+      lastSignificantChange="19d72660c9e" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="19.806125" scrubInterval="1.707587727311195"
+             start="0.0" loopPoint1="0.0" loopPoint2="84.70588235294117" looping="1"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -38,8 +37,8 @@
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.53125" visibleProportion="0.2033223211765289"
-                 leftTime="13.6764705882353" rightTime="22.49999999999998" triplets="0"
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3347113228699552" visibleProportion="0.1965386771300448"
+                 leftTime="19.05882352941172" rightTime="26.11764705882347" triplets="0"
                  scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
@@ -371,7 +370,7 @@
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
-    <MIDICLIP name="New MIDI Clip" start="70.58823529411765" length="12.35294117647058"
+    <MIDICLIP name="New MIDI Clip" start="70.58823529411765" length="14.11764705882352"
               offset="0.0" id="1136" sync="0" currentTake="0" speed="1.0" colour="ffff0000"
               volDb="0.0">
       <AUTOMATIONCURVES/>
@@ -429,11 +428,11 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo1" modDepth="-0.5400000214576721"/>
-        <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.492000013589859"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="0.2199999988079071"/>
         <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.699999988079071"/>
-        <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.3959999978542328"/>
+        <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.4880000054836273"/>
+        <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.492000013589859"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1004" enabled="1" volume="0.4692665040493011">
@@ -1866,10 +1865,10 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.1442812532186508"/>
-        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
-        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.7588906288146973"/>
+        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
+        <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.1396093815565109"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1" volume="0.6287492513656616">
