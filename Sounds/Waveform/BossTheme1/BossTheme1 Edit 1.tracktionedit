@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="41a8f3/3ffbb3c" creationTime="1771338758122"
-      lastSignificantChange="19d725187d3" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="89.667875" scrubInterval="0.4905685322746126"
-             start="77.27320799059929" loopPoint1="62.16304347826087" loopPoint2="63.54891304347827"/>
+      lastSignificantChange="19d871cd900" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="26.79733333333333" scrubInterval="0.4905685322746146"
+             start="15.0" loopPoint1="62.16304347826087" loopPoint2="63.54891304347827"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -33,14 +33,14 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="0.0" viewright="24.52842661373064"
+             browserSelection="result/all" viewleft="13.77357866931346" viewright="38.30200528304419"
              sidePanelsShown="1" midiEditorShown="1" midiEditorHeight="0.8237286806106567"
              tracktop="0.0" automationLocked="0" sidePanelsWidth="0.1296650767326355"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
   <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2734375" visibleProportion="0.28972989320755"
-                 leftTime="88.86780258519394" rightTime="90.48942420681557"/>
+                 leftTime="26.59459459459465" rightTime="28.21621621621628"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -1800,8 +1800,8 @@
             windowX="437" windowY="63">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.3156406283378601"/>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.04657812789082527"/>
+        <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.3156406283378601"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1" volume="0.6287492513656616">

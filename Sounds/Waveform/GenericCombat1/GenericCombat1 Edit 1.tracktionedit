@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="780b88/3103d3" creationTime="1773322667971"
-      lastSignificantChange="19d1fda375a" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="95.26933333333334" scrubInterval="1.208291183792273"
-             start="82.0" loopPoint1="53.66666666666666" loopPoint2="53.77083333333334"/>
+      lastSignificantChange="19df818fc4c" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="91.146" scrubInterval="0.6628280315647175"
+             start="84.91666666666667" loopPoint1="90.75" loopPoint2="91.58333333333334"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -37,15 +37,15 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="46.04102502856713" viewright="106.4555842181808"
+             browserSelection="result/all" viewleft="71.81422092034424" viewright="104.9556224985801"
              sidePanelsShown="0" midiEditorShown="1" mixerPanelShown="0" scrollWhenPlaying="1"
              scrollSuspended="0" tracktop="0.0" midiEditorHeight="1.298305153846741"
              pluginsVisible="1"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4877300613496933" visibleProportion="0.25"
-                 leftTime="77.58333333333334" rightTime="99.24999999999997" scrollSuspended="0"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.53125" visibleProportion="0.25"
+                 leftTime="84.00128514056226" rightTime="102.3089156626506" scrollSuspended="0"/>
   <ARRANGEVIEW>
     <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
                     outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
@@ -334,7 +334,8 @@
       <DEVICE name="(default audio output)"/>
     </OUTPUTDEVICES>
   </TRACK>
-  <TRACK id="1012" colour="ff00ff00" height="50.0">
+  <TRACK id="1012" colour="ff00ff00" height="53.0" verticalOffset="0.265625"
+         visibleProportion="0.1953125">
     <MODIFIERS/>
     <CLIPSLOTS/>
     <MIDICLIP name="New MIDI Clip" start="50.0" length="2.0" offset="0.0" id="1116"
@@ -411,7 +412,7 @@
         <NOTE p="43" b="16.0" l="3.0" v="98" c="0"/>
         <NOTE p="42" b="18.0" l="3.0" v="98" c="0"/>
         <NOTE p="40" b="20.0" l="3.0" v="98" c="0"/>
-        <NOTE p="38" b="23.0" l="3.0" v="95" c="0"/>
+        <NOTE p="38" b="21.0" l="3.0" v="95" c="0"/>
         <NOTE p="52" b="26.0" l="3.0" v="95" c="0"/>
         <NOTE p="54" b="28.0" l="3.0" v="95" c="0"/>
         <NOTE p="57" b="30.0" l="4.0" v="95" c="0"/>
@@ -448,8 +449,8 @@
             presetName="4OSC: Overpass" presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSCOverpass.trkpreset">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.5839999914169312"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="1.0"/>
+        <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.5839999914169312"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1016" enabled="1">

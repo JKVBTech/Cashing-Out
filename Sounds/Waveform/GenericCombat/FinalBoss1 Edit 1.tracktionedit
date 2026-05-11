@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="512c5f/3630c32" creationTime="1772632870847"
-      lastSignificantChange="19d62b5cd5f" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="60.0" scrubInterval="0.7400000000000017"
-             start="60.0" loopPoint1="56.32352941176471" loopPoint2="57.05882352941177"
+      lastSignificantChange="19df35f1b30" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="0.0" scrubInterval="0.7400000000000025"
+             start="0.0" loopPoint1="44.11764705882353" loopPoint2="45.58823529411765"
              looping="0"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
@@ -23,19 +23,20 @@
   <MASTERPLUGINS/>
   <INPUTDEVICES>
     <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins">
-      <INPUTDEVICEDESTINATION targetID="1012" targetIndex="0"/>
+      <INPUTDEVICEDESTINATION targetID="1006" targetIndex="0"/>
     </INPUTDEVICE>
   </INPUTDEVICES>
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/all" viewleft="32.63051869722565" viewright="69.63051869722574"
-             sidePanelsShown="0" midiEditorShown="1" tracktop="0.0" midiEditorHeight="1.311864495277405"/>
+             browserSelection="result/all" viewleft="-0.6694813027744293"
+             viewright="36.3305186972257" sidePanelsShown="0" midiEditorShown="1"
+             tracktop="0.0" midiEditorHeight="1.311864495277405"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.2421875" visibleProportion="0.25"
-                 leftTime="59.88235294117647" rightTime="62.23529411764705"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3984375" visibleProportion="0.25"
+                 leftTime="0.0" rightTime="1.685067877544824"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -290,16 +291,18 @@
         <NOTE p="94" b="0.25" l="0.125" v="78" c="0"/>
         <NOTE p="91" b="0.5" l="0.125" v="78" c="0"/>
         <NOTE p="91" b="0.75" l="0.125" v="78" c="0"/>
-        <NOTE p="89" b="1.0" l="0.375" v="78" c="0"/>
-        <NOTE p="88" b="1.5" l="0.375" v="78" c="0"/>
-        <NOTE p="85" b="2.0" l="1.0" v="78" c="0"/>
+        <NOTE p="89" b="1.0" l="0.125" v="78" c="0"/>
+        <NOTE p="88" b="1.5" l="0.125" v="78" c="0"/>
+        <NOTE p="85" b="2.0" l="0.25" v="78" c="0"/>
+        <NOTE p="89" b="1.25" l="0.125" v="78" c="0"/>
+        <NOTE p="88" b="1.75" l="0.125" v="78" c="0"/>
       </SEQUENCE>
       <PATTERNGENERATOR>
         <PROGRESSION/>
       </PATTERNGENERATOR>
     </MIDICLIP>
     <PLUGIN type="4osc" windowLocked="1" id="1037" enabled="1" filterType="1"
-            presetDirty="0" windowX="2104" windowY="365" ampAttack="1.056109666824341"
+            presetDirty="1" windowX="2104" windowY="365" ampAttack="1.056109666824341"
             ampDecay="3.7168288230896" ampSustain="89.39393615722656" ampRelease="0.9847357273101807"
             ampVelocity="65.37187957763672" filterAttack="0.0" filterDecay="0.09098432213068008"
             filterSustain="29.54545593261719" filterRelease="1.112721562385559"
@@ -314,7 +317,8 @@
             lfoRate2="500.0" lfoDepth2="1.0" lfoWaveShape2="6" modAttack1="2.240365028381348"
             modDecay1="0.4165607392787933" modSustain1="100.0" modRelease1="0.1148019656538963"
             modAttack2="0.0" modDecay2="17.59935760498047" modSustain2="100.0"
-            modRelease2="60.0" presetName="4OSC: Strings 16' WMF" presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Strings 16' WMF.trkpreset">
+            modRelease2="60.0" presetName="4OSC: Strings 16' WMF" presetPath="C:\Users\jkaczmarek8240\AppData\Roaming\Tracktion\Waveform\Factory Presets\4OSC\4OSC Strings 16' WMF.trkpreset"
+            voiceMode="1">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023224"/>
@@ -393,12 +397,12 @@
             windowX="249" windowY="818">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="0.1102656275033951"/>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023224"/>
+        <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="0.1102656275033951"/>
         <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.1122343689203262"/>
-        <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.09225001931190491"/>
-        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
         <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.0"/>
+        <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955765"/>
+        <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.09225001931190491"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.4998281002044678"/>
         <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.4984844028949738"/>
       </MODMATRIX>

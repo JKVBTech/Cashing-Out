@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="24c49e/15dfd9c" creationTime="1772459649780"
-      lastSignificantChange="19d6d20f708" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="275.4346666666667" scrubInterval="0.8102061237358538"
-             start="0.0" loopPoint1="73.4375" loopPoint2="73.4375" looping="0"/>
+      lastSignificantChange="19d8c41eb46" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="81.27249999999999" scrubInterval="0.8102061237358547"
+             start="80.3125" loopPoint1="107.5" loopPoint2="0.0" looping="0"
+             snapToTimecode="1"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -28,15 +29,15 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/plugins" viewleft="254.4819318805311"
-             viewright="294.9922380673238" sidePanelsShown="0" midiEditorShown="1"
-             tracktop="0.0" midiEditorHeight="1.329943537712097" scrollWhenPlaying="1"
+             browserSelection="result/plugins" viewleft="79.84948469066036"
+             viewright="120.3597908774531" sidePanelsShown="0" midiEditorShown="1"
+             tracktop="0.0" midiEditorHeight="1.329943537712097" scrollWhenPlaying="0"
              scrollSuspended="0" pluginsVisible="1"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
-  <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.4765625" visibleProportion="0.2037880569696426"
-                 leftTime="267.75" rightTime="276.5" scrollSuspended="0"/>
+  <MIDIVIEWSTATE scrollWhenPlaying="0" verticalOffset="0.4765625" visibleProportion="0.2037880569696426"
+                 leftTime="81.4375" rightTime="90.1875" scrollSuspended="0"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -253,12 +254,12 @@
             voices4="4" lfoRate1="1.498637914657593" lfoDepth1="0.5199999213218689"
             lfoWaveShape1="6" lfoSync1="0" lfoRate2="0.2560430467128754"
             lfoDepth2="0.4760000109672546" lfoWaveShape2="1" spread2="0.0"
-            modRelease1="0.1000000014901161" windowX="2318" windowY="224">
+            modRelease1="0.1000000014901161" windowX="1912" windowY="286">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="tune1" modItem="env1" modDepth="0.06400000303983688"/>
-        <MODMATRIXITEM modParam="pan3" modItem="lfo2" modDepth="0.5"/>
         <MODMATRIXITEM modParam="pan4" modItem="lfo2" modDepth="0.6520000100135803"/>
+        <MODMATRIXITEM modParam="pan3" modItem="lfo2" modDepth="0.5"/>
         <MODMATRIXITEM modParam="filterAmount" modItem="lfo1" modDepth="0.2919999957084656"/>
       </MODMATRIX>
     </PLUGIN>
@@ -428,9 +429,9 @@
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
         <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="-0.05999999865889549"/>
-        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
-        <MODMATRIXITEM modParam="filterAmount" modItem="env1" modDepth="0.5240000486373901"/>
         <MODMATRIXITEM modParam="filterFreq" modItem="env1" modDepth="0.4199999868869781"/>
+        <MODMATRIXITEM modParam="filterAmount" modItem="env1" modDepth="0.5240000486373901"/>
+        <MODMATRIXITEM modParam="level3" modItem="lfo2" modDepth="0.6840000152587891"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1007" enabled="1" volume="0.7715517282485962">
@@ -1629,6 +1630,19 @@
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <PLUGIN type="level" id="1020" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1095" colour="ffff0000" height="41.125">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="volume" id="1096" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1097" enabled="1">
       <MODIFIERASSIGNMENTS/>
     </PLUGIN>
     <OUTPUTDEVICES>

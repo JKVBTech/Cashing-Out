@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <EDIT appVersion="Waveform 13.5.21" projectID="65d3a/1204a6" creationTime="1770733421290"
-      lastSignificantChange="19cb9201b20" modifiedBy="jkaczmarek8240">
-  <TRANSPORT endToEnd="1" position="46.52133333333333" scrubInterval="0.908817313776654"
-             start="6.5" loopPoint2="28.0" loopPoint1="28.0"/>
+      lastSignificantChange="19dd458fa75" modifiedBy="jkaczmarek8240">
+  <TRANSPORT endToEnd="1" position="21.0" scrubInterval="0.9088173137766546"
+             start="21.0" loopPoint2="28.0" loopPoint1="28.0"/>
   <PITCHSEQUENCE>
     <PITCH startBeat="0.0" pitch="60"/>
   </PITCHSEQUENCE>
@@ -28,15 +28,15 @@
   <TRACKCOMPS/>
   <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
              arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Search"
-             browserSelection="result/plugins" viewleft="26.9424925682362"
-             viewright="72.38335825706891" sidePanelsShown="0" midiEditorShown="1"
-             midiTypingWindowBounds="440 301 331 97" tracktop="-5.382000000000062"
-             midiEditorHeight="1.311864495277405" pluginAreaWidth="0.8737800717353821"/>
+             browserSelection="result/plugins" viewleft="0.0" viewright="45.44086568883273"
+             sidePanelsShown="0" midiEditorShown="1" midiTypingWindowBounds="440 301 331 97"
+             tracktop="-5.382000000000062" midiEditorHeight="1.311864495277405"
+             pluginAreaWidth="0.8737800717353821"/>
   <EDITMIXGROUPS/>
   <SCENES/>
   <AUDIOEDITING/>
   <MIDIVIEWSTATE scrollWhenPlaying="1" verticalOffset="0.3719131786490111" visibleProportion="0.2122296392917633"
-                 leftTime="38.29999999999998" rightTime="50.29999999999998"/>
+                 leftTime="20.0" rightTime="22.5"/>
   <AUTOMAPXML/>
   <ARRANGERTRACK name="Arranger" id="1027"/>
   <CHORDTRACK name="Chord" id="1029"/>
@@ -71,7 +71,8 @@
       </PATTERNGENERATOR>
     </MIDICLIP>
     <MIDICLIP name="New MIDI Clip" start="10.0" length="12.0" offset="0.0"
-              id="1072" sync="0" currentTake="0" speed="1.0" colour="ffff00aa">
+              id="1072" sync="0" currentTake="0" speed="1.0" colour="ffff00aa"
+              volDb="0.0">
       <AUTOMATIONCURVES/>
       <QUANTISATION/>
       <GROOVE/>
@@ -853,8 +854,8 @@
             windowX="2651" windowY="233">
       <MODIFIERASSIGNMENTS/>
       <MODMATRIX>
-        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.0"/>
         <MODMATRIXITEM modParam="lfoRate1" modItem="cc1" modDepth="0.04042187705636024"/>
+        <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.0"/>
       </MODMATRIX>
     </PLUGIN>
     <PLUGIN type="volume" id="1013" enabled="1">
